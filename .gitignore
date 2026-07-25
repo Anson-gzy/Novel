@@ -1,0 +1,39 @@
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# deps
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# build output
+dist/
+build/
+.build/
+DerivedData/
+.derived-data/
+.derived-data-signed/
+*.xcarchive
+*.xcuserstate
+**/xcuserdata/
+
+# logs
+*.log
+logs/
+
+# secrets
+.env
+.env.local
+.env.*.local
+*.p8
+*.pem
+*.key
+*.p12
+AuthKey_*
+
+chinese-novelist-skill/
