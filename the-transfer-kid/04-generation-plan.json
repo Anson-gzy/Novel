@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "novelName": "the-transfer-kid",
+  "projectPath": "/Users/guziyang/Projects/Novel/the-transfer-kid",
+  "totalChapters": 28,
+  "language": "en",
+  "minWordsPerChapter": 1500,
+  "createdAt": "2026-08-12T22:32:00Z",
+  "updatedAt": "2026-08-22T09:56:00Z",
+  "status": "completed",
+  "chapters": [
+    {
+      "chapterNumber": 25,
+      "title": "Midnight Diner",
+      "filePath": "chapter-25.md",
+      "notesPath": "chapter-25-notes.md",
+      "status": "completed",
+      "wordCount": 1650,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 26,
+      "title": "The Long Weekend",
+      "filePath": "chapter-26.md",
+      "notesPath": "chapter-26-notes.md",
+      "status": "completed",
+      "wordCount": 1750,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 27,
+      "title": "The East Gate",
+      "filePath": "chapter-27.md",
+      "notesPath": "chapter-27-notes.md",
+      "status": "completed",
+      "wordCount": 2385,
+      "wordCountPass": true,
+      "retryCount": 0
+    },
+    {
+      "chapterNumber": 28,
+      "title": "Ice Pack",
+      "filePath": "chapter-28.md",
+      "notesPath": "chapter-28-notes.md",
+      "status": "completed",
+      "wordCount": 2473,
+      "wordCountPass": true,
+      "retryCount": 0
+    }
+  ]
+}

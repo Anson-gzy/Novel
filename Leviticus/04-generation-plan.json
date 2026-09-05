@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "novelName": "Leviticus: Strange Fire",
+  "projectPath": "/Users/guziyang/Projects/Novel/Leviticus",
+  "totalChapters": 18,
+  "language": "en",
+  "minWordsPerChapter": 1500,
+  "createdAt": "2026-07-31T00:00:00Z",
+  "updatedAt": "2026-07-31T00:00:00Z",
+  "status": "in_progress",
+  "chapters": [
+    {"chapterNumber": 1, "title": "Keep a Place", "filePath": "chapter-01.md", "notesPath": "chapter-01-notes.md", "status": "completed", "wordCount": 1910, "wordCountPass": true, "retryCount": 0},
+    {"chapterNumber": 2, "title": "Backpackers", "filePath": "chapter-02.md", "notesPath": "chapter-02-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 3, "title": "Daylight People", "filePath": "chapter-03.md", "notesPath": "chapter-03-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 4, "title": "Static", "filePath": "chapter-04.md", "notesPath": "chapter-04-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 5, "title": "Two Fires", "filePath": "chapter-05.md", "notesPath": "chapter-05-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 6, "title": "Marnie's Sister", "filePath": "chapter-06.md", "notesPath": "chapter-06-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 7, "title": "The Rule", "filePath": "chapter-07.md", "notesPath": "chapter-07-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 8, "title": "Rod", "filePath": "chapter-08.md", "notesPath": "chapter-08-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 9, "title": "Fluorescent", "filePath": "chapter-09.md", "notesPath": "chapter-09-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 10, "title": "Jessica Again", "filePath": "chapter-10.md", "notesPath": "chapter-10-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 11, "title": "Leviticus 10", "filePath": "chapter-11.md", "notesPath": "chapter-11-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 12, "title": "Phone Call", "filePath": "chapter-12.md", "notesPath": "chapter-12-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 13, "title": "The Lighter", "filePath": "chapter-13.md", "notesPath": "chapter-13-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 14, "title": "Backtrack", "filePath": "chapter-14.md", "notesPath": "chapter-14-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 15, "title": "What It Wants", "filePath": "chapter-15.md", "notesPath": "chapter-15-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 16, "title": "Strange Fire", "filePath": "chapter-16.md", "notesPath": "chapter-16-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 17, "title": "Arlene", "filePath": "chapter-17.md", "notesPath": "chapter-17-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0},
+    {"chapterNumber": 18, "title": "Show Me the Way", "filePath": "chapter-18.md", "notesPath": "chapter-18-notes.md", "status": "pending", "wordCount": null, "wordCountPass": null, "retryCount": 0}
+  ]
+}

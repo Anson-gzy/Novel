@@ -294,205 +294,40 @@
 - **Est. Word Count:** ~3,500
 - **POV:** Zack (1st person) — NEW POV character
 - **Structure:** 插叙 (intercut) — opens on the crisis, reaches backward into the "before" through fragments triggered by chaos
-- **Core Events:**
-  1. Zack establishes himself — a student from Westbrook Prep who knew Andrew by face and reputation but never by conversation. Andrew was the quiet one.
-  2. *[Intercut]* The car ride: Zack's mother's precision (polished shoes as wordless instruction), father's silent rituals. The Chen family dynamic — control as love.
-  3. *[Intercut]* Arriving at the venue: chandeliers, the tradition of "two hours, maybe three," existing politely.
-  4. The crisis: gunshots, explosion. Zack loses his parents in the surge. Smoke, blocked exits, crowd compression.
-  5. *[Intercut]* Andrew's parents at the table: the father's private half-smile, the mother's real laugh, her hand on Andrew's arm. "They looked permanent."
-  6. Zack finds Andrew pinned under a collapsed column and pulls him out. They're both trapped — exits blocked, Zack's leg badly injured.
-  7. Andrew calls Ethan. The brother's controlled voice. "They're fine." Zack says nothing.
-- **Micro-psychological shifts:** Detached familiarity → shock of violence → intercut warmth of the "before" → adrenaline-fueled rescue → forced calm → quiet dread at Ethan's managed delivery
-- **Foreshadowing:**
-  - Andrew's pre-reinvention self — invisible, quiet, the person nobody wanted around
-  - Ethan's controlled voice — managing terrible information in real time
-  - Andrew's parents seen alive for the first and only time — "They looked permanent"
-  - Zack's family dynamics: mother = precision, father = silence. The Chen way of expressing love
-  - The chandeliers described as "heavy" — structural foreshadowing
-  - Zack's leg injury — will keep them immobile for Ch. 14
-- **Hook:** Zack sits in the dark, letting Andrew believe the lie, holding the weight of what he suspects while thinking about his own parents.
-
----
-
-### Chapter 14: "One Day, One Night"
-- **Est. Word Count:** ~3,000
-- **POV:** Zack (1st person)
-- **Core Events:**
-  1. Trapped for a full day and night. Zack's injury prevents movement. They talk — deeply, honestly.
-  2. Andrew talks about Westbrook — the texture of being invisible. Zack talks about swim team and parental expectations.
-  3. They reach topics strangers don't normally reach — fears, what they'd change, what life would look like.
-  4. Zack quietly realizes he doesn't want Andrew to disappear. He doesn't say it.
-  5. Rescue — loud, fast, separation by medical teams. Andrew grabs Zack's hand before they're pulled apart.
-  6. In the hospital, before anesthesia, Zack hears Andrew's parents were pronounced at the scene.
-- **Micro-psychological shifts:** Physical pain + enforced stillness → gradual honesty → unexpected intimacy → quiet realization → violent separation → devastating knowledge
-- **Foreshadowing:**
-  - Andrew describing Westbrook isolation — pre-reinvention Andrew fully visible for first time
-  - The hand-grab — Andrew's first physical act of connection
-  - "Pronounced at the scene" — dramatic irony payoff
-  - Zack's unspoken realization — mirrors Justin's unspoken feelings
-- **Hook:** Zack goes under knowing Andrew doesn't know yet. The dramatic irony is crushing.
-
----
-
-### Chapter 15: "Tiffany, Part Two"
-- **Est. Word Count:** ~3,200
-- **POV:** Zack (1st person)
-- **Core Events:**
-  1. Weeks of recovery. Texting evolves to all-day conversations to phone calls.
-  2. Zack visits Andrew at Ethan's apartment. The day is easy.
-  3. THE BRACELET: Zack gives Andrew a Tiffany bracelet. Andrew puts it on immediately. Zack almost confesses but lets the moment pass.
-  4. Andrew starts at West Valley High. The dynamic shifts — Andrew is busier.
-  5. Andrew starts mentioning someone — Justin. First casually, then with increasing frequency.
-- **Micro-psychological shifts:** Recovery warmth → deepening connection → the bracelet moment (peak vulnerability) → almost-confession → missed window → gradual shift as Justin enters
-- **Foreshadowing:**
-  - The Tiffany bracelet origin REVEALED — Zack gave it to Andrew
-  - "Someone who isn't around anymore" (Ch. 4) = Zack
-  - Andrew's decision to go to public school — reinvention is deliberate
-  - Justin's name appearing — the triangle begins
-- **Hook:** Zack starts hearing something in the Justin mentions that he doesn't want to hear.
-
----
-
-### Chapter 16: "Go Find Him"
-- **Est. Word Count:** ~2,200
-- **POV:** Zack (1st person)
-- **Core Events:**
-  1. The Justin mentions accumulate. Zack hears the bracelet comment, the hangouts, the specificity.
-  2. Zack tries indirect approaches. Andrew doesn't pick it up or pretends not to.
-  3. Eventually Zack gives Andrew explicit permission: if there's someone, go. "As a friend."
-  4. Andrew says okay. Then he texts Justin.
-  5. Zack sits with what he just did. Doesn't regret it. Just registers it.
-- **Micro-psychological shifts:** Growing recognition → indirect attempts → the decision to give permission → the weight of having done it → quiet, private grief
-- **Foreshadowing:**
-  - Zack's permission unlocks Andrew's approach to Justin in Ch. 1-6
-  - "Officially, as a friend" — Zack knows it's more
-  - Andrew texting Justin immediately — the speed reveals the depth of wanting
-- **Hook:** Zack has stepped aside. The door is open. The reader understands the full backstory.
-
----
-
-### Chapter 17: "Three Dots"
-- **Est. Word Count:** ~2,400
-- **POV:** Justin (1st person — POV returns)
-- **Core Events:**
-  1. Something is different. Andrew still responds but there's a gap where warmth used to be. Justin notices gradually.
-  2. He starts tracking Andrew's phone — face-up more often, typing indicator, quick responses to someone else.
-  3. The Marcus situation reaches him through the group — Marcus has been weird, Samira knows more than she's saying.
-  4. Justin runs paranoid math. Goes quiet, doesn't confront, watches, gets bad at sleeping.
-- **Micro-psychological shifts:** Gradual noticing → tracking phone behavior → hearing about Marcus → paranoid math → quiet withdrawal → insomnia
-- **Foreshadowing:**
-  - Justin noting Andrew "cracks" — connects to Ch. 8 Dylan passage
-  - Typing indicator = Andrew texting Zack (reader now knows this)
-  - Marcus's "different kind of quiet" — sets up Ch. 12 from Justin's side
-  - Justin's "fine" reflex — parallels Marcus's "fine" from Ch. 11
-- **Hook:** Justin is stuck in an observation-insomnia loop, the tension building.
-
----
-
-### Chapter 18: "The Gift"
-- **Est. Word Count:** ~2,850
-- **POV:** Justin (1st person)
-- **Core Events:**
-  1. Justin buys Andrew a specific book he mentioned once, weeks ago.
-  2. He gives it to Andrew. Andrew recognizes the significance. They make plans.
-  3. The evening is genuinely good — easy, present, like the early days.
-  4. They end up at Andrew's place. Ethan isn't home. Things become physical.
-  5. Justin tries to address the distance. Andrew goes quiet. Justin pushes.
-  6. Andrew says: I have a partner. Justin gets up, finds his jacket, leaves.
-- **Micro-psychological shifts:** Determination → vulnerability → relief at the good evening → intimacy → post-intimacy calm → the reveal (devastation) → cold departure
-- **Foreshadowing:**
-  - The book as proof of deep listening — mirrors Andrew's "I trust you"
-  - Andrew's "I have a partner" parallels his statement to Marcus in Ch. 11
-  - Justin's departure sets up his emotional state for Ch. 12/19
-- **Hook:** Justin walks into the night with everything collapsed.
-
----
-
-### Chapter 19: "Marcus"
-- **Est. Word Count:** ~3,100
-- **POV:** Justin (1st person — leads into Chapter 12 cliffhanger)
-- **Core Events:**
-  1. Justin walks, takes the train, replays everything. The bracelet. The phone. Marcus going weird.
-  2. He builds a picture that isn't accurate but is coherent: Marcus = the partner.
-  3. He doesn't sleep. By the next day the decision is made.
-  4. Cafeteria. Sees Andrew walking past, tries to follow, can't catch him. Returns. Sees Marcus.
-  5. The wrong math produces the punch. This is the Ch. 12 scene from Justin's side.
-- **Micro-psychological shifts:** Numb replaying → wrong deduction → insomnia → cold certainty → pursuing Andrew and failing → redirected fury → the punch
-- **Foreshadowing:**
-  - Justin's wrong deduction creates dramatic irony — reader knows the truth
-  - The failed attempt to reach Andrew — misdirects the punch at Marcus
-  - Ch. 8/10 callbacks: "stops mid-sentence," "calculated but cracks"
-  - The punch as overflow, not rage — Justin's wet eyes now fully explained
-- **Hook:** The cliffhanger circuit is completed. The reader knows WHY and knows Justin is WRONG.
-
----
-
-## Suspense Lines
-
-- **Main Line:** Who is Andrew, really? What's behind the reinvented surface?
-- **Character Line:** Why does Justin notice Andrew more than he should?
-- **Relationship Line:** Can any genuine connection form between them?
-- **Background Line:** Andrew's parents — what happened, and how did it reshape him?
-
----
-
-## Foreshadowing & Consistency Tracker
-
-| Item | Planted In | Status | Notes |
-|---|---|---|---|
-| Andrew's unreadable affect | Ch. 1 | Active | Justin can't tell if it's arrogance or dissociation |
-| Justin's unnamed unease around Andrew | Ch. 1, Ch. 2 | Active | He has "zero language" for why Andrew unsettles him |
-| Andrew's academic dominance | Ch. 2 | Active | All AP classes, effortless competence |
-| Principal Nakamura assigns Justin | Ch. 1 | Active | Creates forced proximity mechanism |
-| Instagram group chat culture | Ch. 1 | Active | Establishes gossip ecosystem |
-| 8-month Instagram gap | Ch. 3 | Active | Aligns with the summer his parents died |
-| Empty hallway photo | Ch. 3 | Active | Emotional residue Andrew doesn't express in person |
-| Andrew's older brother | Ch. 3 | Active | 22–23, dropped out to take custody |
-| Justin's pattern-tracking | Ch. 3 | Active | Investment disguised as indifference |
-| Tiffany bracelet | Ch. 4 | Active | "Someone who isn't around anymore" — origin unknown |
-| Andrew's near-smile | Ch. 4 | Active | "The space where a smile used to live" |
-| Justin's physical reactions | Ch. 4, Ch. 5 | Active | Sweating hands, outfit changes — body ahead of mind |
-| "One of five" fear | Ch. 5 | Active | Justin's anxiety about not being special mirrors Andrew's fear of not mattering |
-| Deleted texts | Ch. 5 | Active | Justin can't even type "hey" — the stakes feel too high |
-| Andrew calling (not texting) | Ch. 6 | Active | Deliberate, confident — contrasts Justin's paralysis in Ch. 5 |
-| "I asked around" (vague non-answer) | Ch. 6 | Resolved (Ch. 7) | Marcus reveals in POV that Andrew sought him out specifically |
-| BMW and penthouse | Ch. 6 | Active | The transfer was never about money — what actually happened at Westbrook? |
-| Ethan (Andrew's brother, expanded) | Ch. 3, Ch. 6 | Active | Not a struggling dropout — young, competent, running something real |
-| Face-down photo frames | Ch. 6 | Active | In Andrew's room — hidden, not removed. Emotional residue. |
-| Andrew's playlist (deliberate sharing) | Ch. 6 | Active | First time Andrew shows Justin something on purpose, not by accident |
-| "See you Tuesday" | Ch. 6 | Active | Andrew maps their next meeting — mirrors Justin's pattern-tracking |
-| Justin's "smaller world" feeling | Ch. 6 | Active | Class gap now visible and felt; new vulnerability layer |
-| Andrew chose Marcus for the number request | Ch. 7 | Active | Reads people carefully — identified the friend least likely to leak |
-| Andrew's secrecy about needing the number | Ch. 7 | Active | Didn't want Justin to know he had to ask — vulnerability or vanity? |
-| Samira's "or it's controlling" | Ch. 7 | Active | First dissenting voice about Andrew's motivations |
-
-| Andrew at seventy percent (without Justin) | Ch. 8 | Active | Confidence calibrates to audience — which version is real? |
-| Andrew's trailed-off sentences | Ch. 8 | Active | "Reinvention," "trust vs. oversight," "who decides what people deserve" — all about his own situation |
-| "The right to not have your past follow you" | Ch. 8 | Active | Strongest hint yet about what happened at Westbrook Prep |
-| Andrew's selective hallway blindness toward Marcus | Ch. 9 | Active | Deliberate compartmentalization — Marcus exists in class but not outside it |
-| Justin's instinctive defense of Andrew | Ch. 9 | Active | Jumps in before his brain catches up — reveals depth of emotional investment |
-| Samira reading Marcus: "It bothers you" | Ch. 9 | Active | Samira sees through Marcus the way Marcus sees through others |
-| Justin-Andrew silence / topic death | Ch. 10 | Active | The group stops mentioning Andrew — collective avoidance |
-| Justin at "ninety-five percent speed" | Ch. 10 | Active | Marcus can hear the difference — deep familiarity established |
-| Andrew dropping to sixty percent | Ch. 10 | Active | Trailed-off sentences stopped entirely — sealed further |
-| Marcus's secret feelings for Andrew | Ch. 10 | Active | Kept from everyone, especially Justin — creates compound betrayal potential |
-| Andrew has a partner (from old school) | Ch. 11 | Resolved (Ch. 13-16) | Zack — met Andrew at gala, bonded in collapse, became his partner |
-| "Justin is a different situation" | Ch. 11 | Active | Andrew refuses to elaborate — implies Justin meant something to him |
-| Marcus's "fine" echo | Ch. 11 | Active | Mirrors Justin's three "fines" from Ch. 7 — parallel structure |
-| Andrew sensed Marcus's interest deliberately | Ch. 11 | Active | The hallway blankness was calculated distance, not obliviousness |
-| Justin punches Marcus | Ch. 12 | Resolved (Ch. 19) | Justin wrongly concluded Marcus was Andrew's partner and punched him |
-| Justin's wet eyes after the punch | Ch. 12 | Resolved (Ch. 19) | The punch cost him something — overflow, not rage; rooted in heartbreak |
-| Tiffany bracelet origin | Ch. 4, resolved Ch. 15 | Resolved | Zack gave it to Andrew during recovery; "someone who isn't around anymore" = Zack |
-| The gala / Andrew's parents' death | Ch. 15 backstory | Resolved (Ch. 13-14) | Full account: charity gala, shooting + explosion, structural collapse, parents pronounced at scene |
-| Andrew's reinvention explained | Ch. 8 hints | Resolved (Ch. 14-15) | Andrew was invisible at Westbrook; chose public school to become someone new |
-| Zack gives Andrew permission to pursue Justin | Ch. 16 | Active | The catalyst for Andrew's approach to Justin in Ch. 1-6 |
-| Justin's wrong deduction (Marcus = partner) | Ch. 19 | Active | Dramatic irony — reader knows the truth, Justin does not |
-| Justin and Andrew's physical relationship | Ch. 18 | Active | Happened before the "I have a partner" reveal; complicates everything |
+- **Completed**
+- [x] Chapter 1: "The Transfer Kid" — Instagram buzz, Andrew's entrance, principal assigns Justin, venting to friends
+- [x] Chapter 2: "Group Work" — One shared class, forced pairing, cold interaction, flat ending
+- [x] Chapter 3: "Mutual Followers" — Instagram stalking, tracking patterns, learning about Andrew's brother
+- [x] Chapter 4: "Tiffany" — First greeting, the bracelet, real conversation, invitation to Andrew's place
+- [x] Chapter 5: "Probably a Party" — Friend teasing, self-doubt spiral, getting ready, paralysis
+- [x] Chapter 6: "Penthouse" — Andrew calls, picks Justin up, penthouse reveal, the world feels smaller
+- [x] Chapter 7: "Marcus Talks First" — Marcus POV, reveals he gave Andrew Justin's number, the group covers
+- [x] Chapter 8: "Schedule Change" — Marcus POV, Andrew in Government class, two versions of Andrew
+- [x] Chapter 9: "Invisible" — Marcus POV, Andrew's hallway blindness, testing the pattern, Justin defends Andrew
+- [x] Chapter 10: "Deterioration" — Marcus POV, Justin-Andrew silence, Marcus's private read, Marcus likes Andrew
+- [x] Chapter 11: "Not You, Not Him" — Marcus POV, confronts Andrew, learns about partner, sits with rejection
+- [x] Chapter 12: "First Punch" — Marcus POV, cliffhanger, Justin punches Marcus at lunch
+- [x] Chapter 13: "The Gala" — Zack POV, Westbrook flashback, charity gala attack, Zack rescues Andrew
+- [x] Chapter 14: "One Day, One Night" — Zack POV, trapped together, deep honesty, rescue, parents' death
+- [x] Chapter 15: "Tiffany, Part Two" — Zack POV, recovery, bracelet origin, Andrew starts at West Valley
+- [x] Chapter 16: "Go Find Him" — Zack POV, Justin mentions accumulate, Zack gives Andrew permission
+- [x] Chapter 17: "Three Dots" — Justin POV returns, notices Andrew's distance, Marcus situation, insomnia
+- [x] Chapter 18: "The Gift" — Justin POV, the book, the evening, intimacy, Andrew reveals partner
+- [x] Chapter 19: "Marcus" — Justin POV, wrong deduction, the punch from Justin's perspective
+- [x] Chapter 20: "Scroll" — Zack POV, finds Wade Richardson online, sends DM under disguise
+- [x] Chapter 21: "Read" — Zack POV, all-night DM exchange with Wade, real vs performed connection
+- [x] Chapter 22: "Delivered" — Zack POV, builds Justin persona, accepts Friday invitation to Palisades
+- [x] Chapter 23: "Pacific Palisades" — Zack POV, drives Audi to Wade's house, Wade notes the "gap"
+- [x] Chapter 24: "2 AM" — Zack POV, stays overnight, Andrew follows Wade online, worlds collide
+- [x] Chapter 25: "Midnight Diner" — Third-Person Limited, Zack cuts ties with Wade, Andrew's black notebook reveal, midnight diner confession & reconciliation
+- [x] Chapter 26: "The Long Weekend" — Third-Person Limited, Highway 1 sunrise, penthouse weekend, Monday book guilt & cafeteria punch convergence
+- [x] Chapter 27: "The East Gate" — Third-Person Limited (Andrew POV), cafeteria aftermath, Andrew confronts Justin by the east gate with explanations, Justin refuses to listen and cuts ties, Andrew gives up and finds Zack in Brentwood
+- [x] Chapter 28: "Ice Pack" — Justin POV, ride home on Metro with swollen hand, empty apartment, Davies voicemail on machine, Dylan & Tyler panic, realization of Marcus's innocence, Samira drops off binder and reveals Marcus lied about slipping on milk to prevent expulsion
 
 ---
 
 ## Word Count Stats
-- Completed chapters: 19
+- Completed chapters: 28
 - Chapter 1: 1,657 words
 - Chapter 2: 1,734 words
 - Chapter 3: 1,875 words
@@ -512,12 +347,15 @@
 - Chapter 17: 2,380 words
 - Chapter 18: 2,853 words
 - Chapter 19: 3,096 words
-- Cumulative words: 43,657
-- Progress: ~76% (19/25 chapters)
-
----
-
-## Chapter Summaries
+- Chapter 20: 1,850 words
+- Chapter 21: 1,620 words
+- Chapter 22: 1,540 words
+- Chapter 23: 1,720 words
+- Chapter 24: 1,980 words
+- Chapter 25: 1,650 words
+- Chapter 26: 1,750 words
+- Chapter 27: 2,385 words
+- Chapter 28: 2,473 words
 
 ### Chapter 1: "The Transfer Kid"
 **Summary:** Justin's Instagram group chat explodes with news that a private school student is transferring to West Valley High after losing both parents. Reactions range from sympathy to hostility about the "private school" label. Justin stays indifferent. On the first day, Andrew walks the hallway with a self-possession that reads as arrogance — he doesn't react to the stares, the whispers, or the mockery from the football guys. Justin watches and finds himself unsettled but can't articulate why. He's then called to Principal Nakamura's office and asked to "look after" Andrew — show him around, check in. Justin is annoyed but agrees. At lunch, he vents to Dylan, Samira, and Tyler about the absurdity of being assigned to babysit an all-AP student when he barely manages C-pluses. His friends joke, but Justin leaves the conversation with a nagging sense that Andrew is something he can't easily file away.
@@ -576,3 +414,13 @@
 ### Chapter 19: "Marcus" *(Justin POV — leads into Ch. 12)*
 **Summary:** Justin walks, takes the train, sits at home. The sequence replays: the bracelet, the phone, Marcus going weird, Andrew never explaining. He starts placing things — Marcus asking about Andrew too much, the group going quiet, Samira's non-answers. He builds a picture that isn't accurate but is coherent: Marcus is the partner from the old school. He doesn't sleep. By the next day the decision is made without him formally making it. Thursday cafeteria. He's sitting at the table, reduced and quiet (the state Marcus observed in Ch. 12). He sees Andrew crossing the cafeteria, gets up to follow, can't catch him. Returns to the table. Sees Marcus sitting there, steady and contained, and something clicks — the wrong click, built on wrong math. He walks over, says Marcus's name. Marcus starts to turn. The punch lands. This is the Chapter 12 cliffhanger from Justin's side. The reader now knows why — and also knows Justin is wrong.
 
+### Chapter 25: "Midnight Diner" *(Third-Person Limited POV)*
+**Summary:** After leaving Wade's house, Zack confronts the truth that impersonating Justin was a defense mechanism. He formally cuts ties with Wade and returns to reality. Meanwhile, Andrew relentlessly calls and texts Zack, eventually showing up at his doorstep. Initial reluctance gives way as Zack realizes Andrew's persistence is rooted in raw vulnerability, not superficial distraction. They meet at a 24-hour American pancake diner at 2 AM. Surrounded by empty booths and warm neon, Andrew bares his heart, admitting his terror of loss and deep-seated devotion. Overwhelmed by Andrew's genuine tenderness, Zack breaks down and cries, finally accepting Andrew's heartfelt apology.
+
+### Chapter 26: "The Long Weekend" *(Third-Person Limited POV)*
+**Summary:** Reunited, Zack and Andrew spend the rest of the night driving through the city under the stars, returning to the penthouse to sleep through the entire next day. They spend an uninterrupted weekend rekindling their emotional bond. On Monday morning, Andrew returns to school and confronts the book and gift left by Justin. Facing severe emotional turmoil, Andrew resolves to set boundaries with Justin. Simultaneously, Justin, consumed by insomnia, heartbreak, and his erroneous deduction that Marcus was Andrew's partner, confronts Marcus in the cafeteria. The punch lands, bringing the timeline full circle as Andrew witnesses the explosive culmination.
+
+### Chapter 27: "The East Gate" *(Third-Person Limited POV — Andrew)*
+**Summary:** Following the cafeteria fight, Justin is led to the administration office while Marcus is treated on the floor. Andrew skips fifth period and waits by the east exit gate near the bike racks. When Justin emerges with a three-day suspension, Andrew intercepts him to explain the truth: Marcus was never the partner from Westbrook, Andrew asked Marcus for Justin's number only for discretion, and his partner is Zack Chen. Justin refuses to listen, telling Andrew that delivering calculated logic after weeks of silence only serves Andrew's self-preservation. Justin cuts all ties and walks away. Andrew recognizes that his intellectual armor has failed completely. He stores Justin's gift book inside his car console, drives over the pass to Brentwood, and finds Zack outside swim practice. Zack offers steady, physical reassurance without interrogation, grounding Andrew in their shared reality.
+### Chapter 28: "Ice Pack" *(Justin POV)*
+**Summary:** Following his confrontation with Andrew outside the East Gate, Justin takes the Metro home in a daze with a three-day suspension and throbbing, swollen knuckles. He arrives at his quiet apartment, where his mother is away on a clinic double shift and an unplayed voicemail from Vice Principal Davies blinks on the answering machine. Wrapping a bag of frozen sweet peas in a dishtowel to numb his hand, Justin's phone blows up with panicked messages from Dylan and Tyler and rumors on Instagram. He shuts off his notifications, forced to confront the harsh reality that his deduction about Marcus being Andrew's partner was a paranoid illusion, and that he punched an innocent best friend out of wounded pride. Samira arrives at the apartment with his schoolbag, ibuprofen, and class notes. She reveals that Marcus went to urgent care for a contusion and three stitches, but deliberately lied to Davies that he slipped on chocolate milk to protect Justin from an automatic expulsion for battery under the zero-tolerance policy. Samira gives Justin a stern reality check, telling him not to call Marcus until he can apologize truthfully without deflecting blame onto Andrew. The chapter closes with Justin alone in the quiet kitchen, staring at Marcus's contact card with three days of isolation ahead.
