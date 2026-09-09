@@ -36,6 +36,22 @@
 
 ---
 
+## 四、 插图生成规则
+
+- ⚠️ **参考图强制使用**：`assets/` 目录下有参考照片的角色，在生成插图时**必须**使用该参考图作为 img2img 的 reference image（`--ref` 参数），**禁止**纯文本 prompt 生成。目的是保持角色形象在所有插图中的一致性。
+- 当前有参考图的角色及对应文件：
+  | 角色 | 参考图文件 |
+  |---|---|
+  | Justin | `assets/Justin.png` |
+  | Andrew | `assets/Andrew.png`、`assets/Andrew2.png` |
+  | Marcus | `assets/Marcus.png` |
+  | Zack | `assets/Zack.jpeg` |
+- 没有参考图的角色（如 Samira、Dylan、Tyler 等）可以使用纯文本 prompt 生成。
+- 生成脚本：`illustrations/<chapter>/scripts/generate_web.py --ref <参考图路径>`
+- 内容策略注意：prompt 中不得出现年龄、未成年人描述、具体伤害细节（如"swollen bruised knuckles"），改用中性描述。
+
+---
+
 ## 五、 配角活跃度羁绊追踪 (Side Character Activity Tracker)
 > **核心作用**：记录重点配角的最后一次出场/被提及是在哪一章。每章写作前先判断本章是否真的需要该配角出现，再结合距离上次出场的章节远近调整优先级。长时间没出现会显著提高"尽量安排"的权重：必须主动寻找自然切口，让配角以在场、群聊、被旁人提起、背景动作或独立生活痕迹等低侵入形式保持活跃。不能因为"不强制"就让配角长期消失；只有当本章任何轻量出现都会破坏主线或节奏时，才延后并保留提醒。
 

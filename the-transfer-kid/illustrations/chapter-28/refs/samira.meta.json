@@ -1,0 +1,11 @@
+{
+  "prompt": "Character reference portrait of a young woman, head and shoulders, facing the\ncamera almost straight on with a slight turn, direct steady eye contact, calm and\nunreadable expression. Plain muted gray-brown wall behind her with soft diagonal\nvenetian-blind light falling across it. Clean character-sheet framing, no scene\nprops, no background objects.\n\nSouth-Asian-American young woman, dark hair loose and slightly wavy past her\nshoulders, sharp observant dark brown eyes, straight brows, warm brown skin,\nsmall gold stud earrings. She wears an oversized light-blue denim jacket with the\nsleeves rolled to the elbow over a plain white tee.\n\nSemi-realistic cinematic digital painting, American graphic novel / editorial\nconcept-art aesthetic, painterly brushwork with visible brush texture, realistic\nhuman anatomy and facial features, natural skin texture, warm directional light\nfrom the right with deep soft shadows, muted earthy color palette, detailed yet\npainterly rendering, slightly gritty film-grain texture, sophisticated editorial\nconcept art, grounded realism. Ordinary lean build, not exaggerated. Not anime,\nnot manga, not cartoon, not photorealistic photo, not glossy 3D render, no text\nor lettering anywhere in the image.",
+  "model": "gpt-image-2",
+  "size": "2048x2048",
+  "quality": "high",
+  "mode": "generate",
+  "ref_images": [],
+  "duration_seconds": 47.35,
+  "created_at": "2026-09-09 07:41:39",
+  "image_file": "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/chapter-28/refs/samira.png"
+}

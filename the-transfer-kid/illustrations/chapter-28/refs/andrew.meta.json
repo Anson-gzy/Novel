@@ -1,0 +1,11 @@
+{
+  "prompt": "Character reference portrait of a young man, head and shoulders, facing the camera\nstraight on, direct unwavering eye contact, still and self-possessed, expression\nclosed and neutral. Plain muted gray-brown wall behind him with soft diagonal\nvenetian-blind light falling across it. Clean character-sheet framing, no scene\nprops, no background objects.\n\nYoung man with dark brown hair, deliberately messy but well cut, dark brown eyes,\npale even skin, fine straight features, composed mouth. He wears a plain black zip\njacket over a clean white shirt collar, nothing flashy, and a thin silver bracelet\nvisible on his left wrist.\n\nSemi-realistic cinematic digital painting, American graphic novel / editorial\nconcept-art aesthetic, painterly brushwork with visible brush texture, realistic\nhuman anatomy and facial features, natural skin texture, warm directional light\nfrom the right with deep soft shadows, muted earthy color palette, detailed yet\npainterly rendering, slightly gritty film-grain texture, sophisticated editorial\nconcept art, grounded realism. Slim ordinary build, not exaggerated. Not anime,\nnot manga, not cartoon, not photorealistic photo, not glossy 3D render, no text or\nlettering anywhere in the image.",
+  "model": "gpt-image-2",
+  "size": "2048x2048",
+  "quality": "high",
+  "mode": "generate",
+  "ref_images": [],
+  "duration_seconds": 41.72,
+  "created_at": "2026-09-09 07:44:44",
+  "image_file": "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/chapter-28/refs/andrew.png"
+}

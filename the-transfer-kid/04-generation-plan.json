@@ -6,7 +6,7 @@
   "language": "en",
   "minWordsPerChapter": 1500,
   "createdAt": "2026-08-12T22:32:00Z",
-  "updatedAt": "2026-08-22T09:56:00Z",
+  "updatedAt": "2026-09-08T23:59:43Z",
   "status": "completed",
   "chapters": [
     {
@@ -37,7 +37,9 @@
       "status": "completed",
       "wordCount": 2385,
       "wordCountPass": true,
-      "retryCount": 0
+      "retryCount": 0,
+      "epubPath": "/tmp/epubtest/chapter-27.epub",
+      "epubExportedAt": "2026-09-08T23:55:26Z"
     },
     {
       "chapterNumber": 28,
@@ -47,7 +49,9 @@
       "status": "completed",
       "wordCount": 2473,
       "wordCountPass": true,
-      "retryCount": 0
+      "retryCount": 0,
+      "epubPath": "/tmp/epubverify/chapter-28.epub",
+      "epubExportedAt": "2026-09-08T23:59:43Z"
     }
   ]
 }

@@ -37,3 +37,12 @@ logs/
 AuthKey_*
 
 chinese-novelist-skill/
+
+# illustration working files (regenerable; the final PNGs are kept)
+the-transfer-kid/illustrations/**/backup-*/
+the-transfer-kid/illustrations/**/refs/use/
+
+# reference photos of real, identifiable people — not for distribution
+the-transfer-kid/assets/Marcus.png
+the-transfer-kid/assets/Andrew.png
+the-transfer-kid/assets/Zack.jpeg

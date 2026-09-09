@@ -1,0 +1,14 @@
+{
+  "prompt": "Wide interior shot of a silent apartment viewed from just inside the front door. Half-drawn vertical blinds throw thin yellow stripes of fading daylight across brown linoleum flooring. An empty beige couch sits against one wall, a low coffee table with a folded newspaper in front of it. Beyond the living room, the kitchen is visible through an open pass-through, dim and still. A young man stands small in the frame with his back to the camera, a heavy canvas backpack strap hanging from his left hand, not yet dropped. The space smells of lemon floor cleaner implied by its spotless surface. The composition places the figure small and off-centre in the wide room, emphasising the emptiness around him. The mood is arriving to no one.\n\nJUSTIN — Young man with shaggy golden-blond hair, slightly wavy, falling messy over his forehead and curling past his ears; fair sun-flushed skin with faint freckles across the nose; straight nose with a small silver nose ring in the right nostril; several small silver hoop earrings in both ears; full mouth, soft jaw, tired green-hazel eyes; slim build. He wears a purple-and-white gingham checked bucket hat pushed back on his head, a dusty rose-pink tee under an oversized charcoal-gray hoodie, dark jeans and low-top sneakers. The knuckles of his right hand are swollen and mottled dark red and blue.\n\nSemi-realistic cinematic digital painting, American graphic novel / editorial concept-art aesthetic, painterly brushwork, realistic human anatomy and facial features, natural skin texture, dramatic cinematic lighting with deep shadows and subtle highlights, muted earthy color palette (rust, olive, dust brown, cool dusk blue), atmospheric depth, realistic contemporary Los Angeles environments, expressive but restrained facial expressions, detailed yet painterly rendering, slightly gritty film-grain texture, sophisticated editorial concept art, grounded realism, cinematic color grading. Subjects are ordinary lean-built young adults, NOT bodybuilders: slim-athletic or average build only, no exaggerated muscle definition, no adult gym physique. Not anime, not manga, not cartoon, not photorealistic photo, not glossy 3D render. Any lettering in the image must be spelled exactly as specified and rendered as clean hand-lettered American graphic-novel text; do not invent any additional words, signage, captions, logos or watermarks anywhere in the frame.",
+  "model": "gpt-image-2",
+  "size": "2048x1536",
+  "quality": "high",
+  "mode": "edit",
+  "ref_images": [
+    "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/chapter-28/refs/use/justin.jpg",
+    "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/chapter-28/refs/use/set-apartment.jpg"
+  ],
+  "duration_seconds": 50.65,
+  "created_at": "2026-09-09 07:56:58",
+  "image_file": "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/chapter-28/06-empty-apartment.png"
+}

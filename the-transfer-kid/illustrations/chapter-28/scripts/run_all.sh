@@ -1,0 +1,96 @@
+#!/bin/bash
+# Chapter 28 illustration batch driver (v2, parallel).
+# Usage: run_all.sh [parallelism]      default 4
+#        run_all.sh --one "name|size|ref ref"   (internal, one image)
+
+set -uo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+CH28_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+PROMPTS="$CH28_DIR/prompts"
+GEN="$HOME/.agents/skills/sub2api-imagegen/scripts/generate.py"
+USE="$CH28_DIR/refs/use"
+
+# ---------------------------------------------------------------- worker mode
+if [ "${1:-}" = "--one" ]; then
+  IFS='|' read -r name size refs <<< "$2"
+  out_file="$CH28_DIR/$name.png"
+  # Quota is scarce; a resumed run must not re-spend it on images already done.
+  [ -f "$out_file" ] && { echo "SKIP $name (exists)"; exit 0; }
+
+  cmd=(python3 "$GEN" --prompt "$(cat "$PROMPTS/$name.md")" --out "$out_file" --size "$size")
+  # One --ref carrying every path. generate.py's --ref is nargs="+", so a flag
+  # per reference used to keep only the last one and silently drop the rest.
+  if [ -n "$refs" ]; then
+    cmd+=(--ref)
+    for r in $refs; do cmd+=("$USE/$r.jpg"); done
+  fi
+
+  # The upstream shares one credential across all workers, so a failure is
+  # usually "the whole pool is in cooldown", not "this image is bad". Back off
+  # with jitter so four workers do not stampede the reset.
+  for attempt in 1 2 3 4 5 6 7 8 9 10; do
+    if "${cmd[@]}" >/dev/null 2>&1 && [ -f "$out_file" ]; then
+      echo "OK   $name (attempt $attempt)"
+      exit 0
+    fi
+    sleep $(( 60 + RANDOM % 60 ))
+  done
+  echo "FAIL $name"
+  exit 1
+fi
+
+# ------------------------------------------------------------ dispatcher mode
+PAR="${1:-4}"
+mkdir -p "$USE"
+compress() {  # compress <src> <dest-basename>
+  local dst="$USE/$2.jpg"
+  [ -f "$dst" ] || sips -s format jpeg -s formatOptions 80 "$1" --out "$dst" >/dev/null 2>&1
+}
+# Reference sheets are compressed to JPEG before use as --ref: the raw PNGs are
+# 2-3 MB each and base64 payloads that size fail on the gateway (baoyu-comic
+# Step 7.1 warns about exactly this). ~2.4 MB -> ~0.4 MB.
+compress "$CH28_DIR/../../assets/Justin.PNG"     justin
+compress "$CH28_DIR/refs/samira.png"             samira
+compress "$CH28_DIR/refs/marcus.png"             marcus
+compress "$CH28_DIR/refs/andrew.png"             andrew
+compress "$CH28_DIR/refs/set-apartment.png"      set-apartment
+compress "$CH28_DIR/refs/set-cafeteria.png"      set-cafeteria
+
+# name|size|refs   — refs are basenames under refs/use/, space separated.
+# The location sheets keep the apartment and the cafeteria from drifting across
+# the 9 interior shots and the 2 flashbacks; repeated prose alone will not.
+TASKS='
+01-train|4:3|justin
+02-window-reflection|4:3|justin
+03-suspension-slip|3:4|justin
+04-east-gate|4:3|justin andrew
+05-stairs|4:3|justin
+06-empty-apartment|4:3|justin set-apartment
+07-index-card|3:4|set-apartment
+08-answering-machine|3:4|set-apartment
+09-freezer|4:3|justin set-apartment
+10-ice-pack|4:3|justin
+11-phone-notifications|3:4|justin
+12-marcus-turning|4:3|justin marcus set-cafeteria
+13-cafeteria-after|4:3|justin marcus set-cafeteria
+14-marcus-lying|4:3|marcus
+15-urgent-care|4:3|marcus
+16-samira-door|4:3|justin samira
+17-kitchen-table|4:3|justin samira set-apartment
+18-samira-leaving|4:3|justin samira set-apartment
+19-closing|3:4|justin set-apartment
+'
+
+echo "$TASKS" | grep -v '^$' \
+  | xargs -P "$PAR" -I{} bash "$SCRIPT_DIR/run_all.sh" --one "{}"
+rc=$?
+
+echo ""
+missing=$(echo "$TASKS" | grep -v '^$' | cut -d'|' -f1 \
+  | while read -r n; do [ -f "$CH28_DIR/$n.png" ] || echo "$n"; done)
+if [ -n "$missing" ]; then
+  echo "MISSING:"; echo "$missing"; exit 1
+fi
+echo "ALL 19 IMAGES DONE"
+exit 0
