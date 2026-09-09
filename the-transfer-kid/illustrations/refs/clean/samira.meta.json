@@ -1,0 +1,13 @@
+{
+  "prompt": "Neutral character reference sheet of the SAME young woman as in the reference image.\nKeep the face identical: the same facial structure, the same warm brown skin, the same sharp observant dark brown eyes under straight brows, the same dark, slightly wavy hair worn loose past the shoulders.\n\nChange everything else to be neutral and free of distraction. She is BARE-HEADED —\nno hat, no cap, no headwear of any kind; the full head of hair is visible,\nincluding the hairline and the temples. She wears a plain unbranded heather-grey\ncrew-neck t-shirt, nothing else, no jacket, no hood, no collar, no necklace. Small gold stud earrings remain. Head and shoulders, squared to camera,\nfacing straight forward, calm neutral expression, direct eye contact.\n\nFlat, even, soft frontal studio lighting with no dramatic shadows, no coloured\nlight, no window or venetian-blind stripes, no cast patterns of any kind. Plain\nseamless mid-grey studio backdrop, completely empty, no props, no furniture, no\ntexture, no scene elements.\n\nSemi-realistic cinematic digital painting, American graphic novel / editorial\nconcept-art aesthetic, painterly brushwork with visible brush texture, realistic\nhuman anatomy and facial features, natural skin texture, detailed yet painterly\nrendering, grounded realism. Medium build, not exaggerated. Not anime, not\nmanga, not cartoon, not photorealistic photo, not glossy 3D render, no text or\nlettering anywhere in the image.",
+  "model": "gpt-image-2",
+  "size": "2048x2048",
+  "quality": "high",
+  "mode": "edit",
+  "ref_images": [
+    "refs/samira.png"
+  ],
+  "duration_seconds": 53.65,
+  "created_at": "2026-09-09 13:14:19",
+  "image_file": "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/refs/clean/samira.png"
+}

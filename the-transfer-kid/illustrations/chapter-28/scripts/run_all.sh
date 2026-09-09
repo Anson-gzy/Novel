@@ -29,14 +29,19 @@ if [ "${1:-}" = "--one" ]; then
   # The upstream shares one credential across all workers, so a failure is
   # usually "the whole pool is in cooldown", not "this image is bad". Back off
   # with jitter so four workers do not stampede the reset.
+  # Never discard stderr here: "quota cooldown" and "content rejected" both look
+  # like a missing file, but one means wait and the other means rewrite the shot.
+  log="$CH28_DIR/../refs/use/errors.log"
   for attempt in 1 2 3 4 5 6 7 8 9 10; do
-    if "${cmd[@]}" >/dev/null 2>&1 && [ -f "$out_file" ]; then
+    err=$("${cmd[@]}" 2>&1 | grep -E "HTTP Error|moderation|error" | head -2)
+    if [ -f "$out_file" ]; then
       echo "OK   $name (attempt $attempt)"
       exit 0
     fi
+    echo "$(date +%H:%M:%S) $name attempt $attempt: ${err:-unknown}" >> "$log"
     sleep $(( 60 + RANDOM % 60 ))
   done
-  echo "FAIL $name"
+  echo "FAIL $name — last error: $(tail -1 "$log")"
   exit 1
 fi
 
@@ -55,18 +60,24 @@ compress() {  # compress <src> <dest-basename>
 # illustrations/refs/. Both are PROJECT-level: chapter 29 reuses them as-is,
 # which is the whole point — re-establishing a character per chapter is what
 # made the faces drift in v1.
-ASSETS="$CH28_DIR/../../assets"
+# Character refs come from refs/clean/ — neutralised sheets (face only: no hat, no
+# wardrobe, flat light, empty background). The author's original art in assets/ is
+# the identity source but carries a hat, a coloured tee and hard blind-stripe light,
+# and img2img drags all of that into every scene, outvoting the prompt text.
 REFS="$CH28_DIR/../refs"
-compress "$ASSETS/Justin.PNG"        justin
-compress "$ASSETS/Marcus.png"        marcus
-compress "$ASSETS/Andrew.png"        andrew
-compress "$REFS/samira.png"          samira
+compress "$REFS/clean/justin.png"    justin
+compress "$REFS/clean/marcus.png"    marcus
+compress "$REFS/clean/andrew.png"    andrew
+compress "$REFS/clean/samira.png"    samira
+compress "$REFS/clean/zack.png"      zack
 compress "$REFS/set-apartment.png"   set-apartment
 compress "$REFS/set-cafeteria.png"   set-cafeteria
 
 # name|size|refs   — refs are basenames under refs/use/, space separated.
 # The location sheets keep the apartment and the cafeteria from drifting across
 # the 9 interior shots and the 2 flashbacks; repeated prose alone will not.
+# 20-zack is out of numeric order on purpose: it slots between 13 and 14 in the
+# chapter, but renumbering the existing files would invalidate every prompt path.
 TASKS='
 01-train|4:3|justin
 02-window-reflection|4:3|justin
@@ -81,6 +92,7 @@ TASKS='
 11-phone-notifications|3:4|justin
 12-marcus-turning|4:3|justin marcus set-cafeteria
 13-cafeteria-after|4:3|justin marcus set-cafeteria
+20-zack|4:3|zack
 14-marcus-lying|4:3|marcus
 15-urgent-care|4:3|marcus
 16-samira-door|4:3|justin samira
@@ -99,5 +111,5 @@ missing=$(echo "$TASKS" | grep -v '^$' | cut -d'|' -f1 \
 if [ -n "$missing" ]; then
   echo "MISSING:"; echo "$missing"; exit 1
 fi
-echo "ALL 19 IMAGES DONE"
+echo "ALL 20 IMAGES DONE"
 exit 0

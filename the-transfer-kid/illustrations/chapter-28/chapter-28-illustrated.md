@@ -143,6 +143,11 @@ I thought Marcus had gone behind my back. I thought they were both laughing at m
 
 And <mark>none of it was real</mark>.
 
+<figure>
+<img src="20-zack.png" alt="Zack resting at the wall of an indoor lap pool between sets, goggles pushed up, looking away, entirely unaware">
+<figcaption>The other side of the 405.</figcaption>
+</figure>
+
 Andrew's partner was some swimmer named Zack who lived on the other side of the 405. Andrew had never looked at Marcus twice. Marcus had only asked for my number because Andrew asked him to, and Marcus had kept his mouth shut because Marcus never broke a promise.
 
 I had thrown a punch in front of two hundred people because I was humiliated, because Andrew told me he had someone else, and because I needed someone to hurt as much as I did.

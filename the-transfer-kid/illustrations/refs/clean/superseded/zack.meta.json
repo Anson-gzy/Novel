@@ -1,0 +1,11 @@
+{
+  "prompt": "Neutral character reference sheet portrait of a young man, head and shoulders,\nsquared to camera, facing straight forward, calm level expression, direct eye\ncontact.\n\nZACK — Chinese-American young man, black hair cut short and neat, slightly damp\nand pushed back off the forehead, warm light-brown skin, dark brown eyes, straight\nlevel brows, a broad-shouldered but lean swimmer's frame, faint goggle marks\naround the eyes. He wears a plain unbranded heather-grey crew-neck t-shirt,\nnothing else, no jacket, no hood, no necklace, no earrings. Bare-headed, no cap of\nany kind.\n\nFlat, even, soft frontal studio lighting with no dramatic shadows, no coloured\nlight, no window or venetian-blind stripes, no cast patterns of any kind. Plain\nseamless mid-grey studio backdrop, completely empty, no props, no furniture, no\ntexture, no scene elements.\n\nSemi-realistic cinematic digital painting, American graphic novel / editorial\nconcept-art aesthetic, painterly brushwork with visible brush texture, realistic\nhuman anatomy and facial features, natural skin texture, detailed yet painterly\nrendering, grounded realism. Lean athletic swimmer's build, NOT a bodybuilder, no\nexaggerated muscle definition. Not anime, not manga, not cartoon, not\nphotorealistic photo, not glossy 3D render, no text or lettering anywhere in the\nimage.",
+  "model": "gpt-image-2",
+  "size": "2048x2048",
+  "quality": "high",
+  "mode": "generate",
+  "ref_images": [],
+  "duration_seconds": 49.67,
+  "created_at": "2026-09-09 13:15:09",
+  "image_file": "/Users/guziyang/Projects/Novel/the-transfer-kid/illustrations/refs/clean/zack.png"
+}
