@@ -2,7 +2,7 @@ Interior of a cramped administrative office. A young man with cropped ash-blond 
 
 A graphic-novel speech balloon from the young man with the ice pack reads "I slipped." and a second smaller balloon from him reads "There was milk on the floor."
 
-MARCUS — Young man with short cropped ash-blond hair over darker roots, no fringe over the forehead, squarer jaw than Justin, fair skin, light gray-blue eyes, one small stud in his left ear, medium athletic build, plain brown crewneck sweatshirt. Steady, level, unbothered expression.
+MARCUS — Young man with textured ash-blond hair over visibly darker roots, cut short at the sides with a choppy piecey fringe swept across the forehead, squarer jaw than Justin, fair skin, light gray-green eyes, one small silver hoop in his left ear, medium athletic build, plain brown crewneck sweatshirt. Steady, level, unbothered expression.
 
 VICE PRINCIPAL DAVIES — Balding white man in his fifties, wire-frame glasses, short-sleeved dress shirt and tie, flat unimpressed expression.
 

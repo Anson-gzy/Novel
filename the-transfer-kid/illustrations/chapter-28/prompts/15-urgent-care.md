@@ -1,7 +1,34 @@
-Interior of a small urgent care examination room. A young man with cropped ash-blond hair sits on the paper-covered exam table, the ice pack now lowered into his lap, his lower lip visibly swollen, staring at nothing with a distant unfocused gaze. His mother stands beside him with one hand resting on his shoulder and her phone still clutched in the other, her face exhausted and worried. She wears work scrubs under an open cardigan, her dark hair pulled back. Flat clinical fluorescent light fills the room. A blue privacy curtain is half-drawn behind them, a wall-mounted hand-sanitiser dispenser is visible near the door, and the paper beneath him is crinkled. The mood is the quiet cost paid by someone who chose to protect a friend.
+A small urgent care waiting area, seen from across the room. A tired Latina woman
+in her forties sits on a molded plastic chair still wearing work scrubs under an
+open cardigan, her phone face-down on her knee, staring at nothing with the
+particular blankness of someone who left a shift halfway through. Beside her a
+young man sits slightly turned away from the camera, elbows on his knees, head
+down, a folded cold pack resting forgotten in his hands; his face is mostly
+hidden by the angle and by his hair. Flat clinical overhead light, a blue privacy
+curtain half drawn behind them, a hand-sanitiser dispenser on the wall, a stack of
+old magazines on the empty chair to their left. The composition is about the
+woman's exhaustion, not about the young man. Quiet, deflated, waiting-room mood.
 
-MARCUS — Young man with short cropped ash-blond hair over darker roots, no fringe over the forehead, squarer jaw than Justin, fair skin, light gray-blue eyes, one small stud in his left ear, medium athletic build, plain brown crewneck sweatshirt. Steady, level, unbothered expression.
+MARCUS — Young man with textured ash-blond hair over visibly darker roots, cut
+short at the sides with a choppy piecey fringe swept across the forehead, squarer
+jaw than Justin, fair skin, light gray-green eyes, one small silver hoop in his
+left ear, medium athletic build, plain brown crewneck sweatshirt. Steady, level,
+unbothered expression.
 
-MARCUS'S MOTHER — Latina woman in her forties, dark hair pulled back, work scrubs under an open cardigan, tired worried face.
+MARCUS'S MOTHER — Latina woman in her forties, dark hair pulled back, work scrubs
+under an open cardigan, tired worried face.
 
-Semi-realistic cinematic digital painting, American graphic novel / editorial concept-art aesthetic, painterly brushwork, realistic human anatomy and facial features, natural skin texture, dramatic cinematic lighting with deep shadows and subtle highlights, muted earthy color palette (rust, olive, dust brown, cool dusk blue), atmospheric depth, realistic contemporary Los Angeles environments, expressive but restrained facial expressions, detailed yet painterly rendering, slightly gritty film-grain texture, sophisticated editorial concept art, grounded realism, cinematic color grading. Subjects are ordinary lean-built young adults, NOT bodybuilders: slim-athletic or average build only, no exaggerated muscle definition, no adult gym physique. Not anime, not manga, not cartoon, not photorealistic photo, not glossy 3D render. Any lettering in the image must be spelled exactly as specified and rendered as clean hand-lettered American graphic-novel text; do not invent any additional words, signage, captions, logos or watermarks anywhere in the frame.
+Semi-realistic cinematic digital painting, American graphic novel / editorial
+concept-art aesthetic, painterly brushwork, realistic human anatomy and facial
+features, natural skin texture, dramatic cinematic lighting with deep shadows and
+subtle highlights, muted earthy color palette (rust, olive, dust brown, cool dusk
+blue), atmospheric depth, realistic contemporary Los Angeles interiors, expressive
+but restrained facial expressions, detailed yet painterly rendering, slightly
+gritty film-grain texture, sophisticated editorial concept art, grounded realism,
+cinematic color grading. Subjects are ordinary lean-built young adults, NOT
+bodybuilders: slim-athletic or average build only, no exaggerated muscle
+definition, no adult gym physique. Not anime, not manga, not cartoon, not
+photorealistic photo, not glossy 3D render. Any lettering in the image must be
+spelled exactly as specified and rendered as clean hand-lettered American
+graphic-novel text; do not invent any additional words, signage, captions, logos
+or watermarks anywhere in the frame.

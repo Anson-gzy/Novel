@@ -2,7 +2,7 @@ Flashback scene, late-afternoon side light. A young man stands square and still 
 
 A graphic-novel speech balloon from the young man at the gate reads "Marcus isn't from Westbrook." and a smaller second balloon below it reads "He minds his own business."
 
-ANDREW — Young man with dark brown hair, deliberately messy, dark brown eyes, pale even skin, still and self-possessed posture, slim build. Plain black zip jacket over a clean white shirt, nothing flashy, a thin silver bracelet on his left wrist.
+ANDREW — Young man with thick dark brown hair, deliberately messy with a long fringe falling across the forehead and over the ears, dark brown eyes, warm olive-pale skin, straight nose, full mouth, still and self-possessed posture, slim build. Plain black zip jacket over a clean white shirt, nothing flashy, a thin silver bracelet on his left wrist.
 
 JUSTIN — Young man with shaggy golden-blond hair, slightly wavy, falling messy over his forehead and curling past his ears; fair sun-flushed skin with faint freckles across the nose; straight nose with a small silver nose ring in the right nostril; several small silver hoop earrings in both ears; full mouth, soft jaw, tired green-hazel eyes; slim build. He wears a purple-and-white gingham checked bucket hat pushed back on his head, a dusty rose-pink tee under an oversized charcoal-gray hoodie, dark jeans and low-top sneakers. The knuckles of his right hand are swollen and mottled dark red and blue.
 

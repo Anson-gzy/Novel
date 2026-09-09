@@ -9,7 +9,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 CH28_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 PROMPTS="$CH28_DIR/prompts"
 GEN="$HOME/.agents/skills/sub2api-imagegen/scripts/generate.py"
-USE="$CH28_DIR/refs/use"
+USE="$CH28_DIR/../refs/use"
 
 # ---------------------------------------------------------------- worker mode
 if [ "${1:-}" = "--one" ]; then
@@ -50,12 +50,19 @@ compress() {  # compress <src> <dest-basename>
 # Reference sheets are compressed to JPEG before use as --ref: the raw PNGs are
 # 2-3 MB each and base64 payloads that size fail on the gateway (baoyu-comic
 # Step 7.1 warns about exactly this). ~2.4 MB -> ~0.4 MB.
-compress "$CH28_DIR/../../assets/Justin.PNG"     justin
-compress "$CH28_DIR/refs/samira.png"             samira
-compress "$CH28_DIR/refs/marcus.png"             marcus
-compress "$CH28_DIR/refs/andrew.png"             andrew
-compress "$CH28_DIR/refs/set-apartment.png"      set-apartment
-compress "$CH28_DIR/refs/set-cafeteria.png"      set-cafeteria
+# Character designs supplied by the author live with the project's other source
+# art in assets/; sheets we generated and the location sheets live in
+# illustrations/refs/. Both are PROJECT-level: chapter 29 reuses them as-is,
+# which is the whole point — re-establishing a character per chapter is what
+# made the faces drift in v1.
+ASSETS="$CH28_DIR/../../assets"
+REFS="$CH28_DIR/../refs"
+compress "$ASSETS/Justin.PNG"        justin
+compress "$ASSETS/Marcus.png"        marcus
+compress "$ASSETS/Andrew.png"        andrew
+compress "$REFS/samira.png"          samira
+compress "$REFS/set-apartment.png"   set-apartment
+compress "$REFS/set-cafeteria.png"   set-cafeteria
 
 # name|size|refs   — refs are basenames under refs/use/, space separated.
 # The location sheets keep the apartment and the cafeteria from drifting across

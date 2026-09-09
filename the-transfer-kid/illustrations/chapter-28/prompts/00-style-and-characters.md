@@ -8,9 +8,9 @@ JUSTIN — Young man with shaggy golden-blond hair, slightly wavy, falling messy
 
 SAMIRA — South-Asian-American young woman, dark hair loose past her shoulders, sharp observant dark eyes, straight brows, calm unreadable expression, medium build. Oversized light-blue denim jacket with the sleeves rolled to the elbow over a plain white tee, dark jeans, small gold stud earrings.
 
-MARCUS — Young man with short cropped ash-blond hair over darker roots, no fringe over the forehead, squarer jaw than Justin, fair skin, light gray-blue eyes, one small stud in his left ear, medium athletic build, plain brown crewneck sweatshirt. Steady, level, unbothered expression.
+MARCUS — Young man with textured ash-blond hair over visibly darker roots, cut short at the sides with a choppy piecey fringe swept across the forehead, squarer jaw than Justin, fair skin, light gray-green eyes, one small silver hoop in his left ear, medium athletic build, plain brown crewneck sweatshirt. Steady, level, unbothered expression.
 
-ANDREW — Young man with dark brown hair, deliberately messy, dark brown eyes, pale even skin, still and self-possessed posture, slim build. Plain black zip jacket over a clean white shirt, nothing flashy, a thin silver bracelet on his left wrist.
+ANDREW — Young man with thick dark brown hair, deliberately messy with a long fringe falling across the forehead and over the ears, dark brown eyes, warm olive-pale skin, straight nose, full mouth, still and self-possessed posture, slim build. Plain black zip jacket over a clean white shirt, nothing flashy, a thin silver bracelet on his left wrist.
 
 MARCUS'S MOTHER — Latina woman in her forties, dark hair pulled back, work scrubs under an open cardigan, tired worried face.
 

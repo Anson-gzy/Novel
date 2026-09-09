@@ -42,7 +42,7 @@ chinese-novelist-skill/
 the-transfer-kid/illustrations/**/backup-*/
 the-transfer-kid/illustrations/**/refs/use/
 
-# reference photos of real, identifiable people — not for distribution
-the-transfer-kid/assets/Marcus.png
-the-transfer-kid/assets/Andrew.png
-the-transfer-kid/assets/Zack.jpeg
+# reference photos of real, identifiable people — not for distribution.
+# assets/Andrew.png and assets/Marcus.png are now the drawn character designs
+# and DO ship; the originals live under _photo-refs/ and never leave this machine.
+the-transfer-kid/assets/_photo-refs/
