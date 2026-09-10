@@ -1,6 +1,6 @@
 The core panel. Side-on composition of two young people seated across a laminate dining table from each other, shot from the side so both faces read in profile and three-quarter view. Between them on the table sit a bottle of generic ibuprofen, two cold water bottles, and two small red pills. The young man on the left is hunched forward, a damp dishtowel still wrapped around his right hand, shoulders drawn in, eyes down. The young woman on the right leans on her elbows, level and unblinking, watching him. A warm overhead kitchen light illuminates the table and their upper bodies, while the rest of the room falls into deep shadow. The mood is the core confrontation, truth delivered across a cheap table.
 
-A graphic-novel speech balloon from the young woman reads "Because Marcus told them he fell." and a small rectangular caption box in the lower corner of the frame reads "Six-forty."
+A graphic-novel speech balloon from the young woman reads "Because Marcus told them he fell." This is the only lettering in the image; there is no caption box and no other text anywhere in the frame.
 
 SAMIRA — South-Asian-American young woman, dark hair loose past her shoulders, sharp observant dark eyes, straight brows, calm unreadable expression, medium build. Oversized light-blue denim jacket with the sleeves rolled to the elbow over a plain white tee, dark jeans, small gold stud earrings.
 

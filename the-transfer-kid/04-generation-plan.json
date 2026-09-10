@@ -6,7 +6,7 @@
   "language": "en",
   "minWordsPerChapter": 1500,
   "createdAt": "2026-08-12T22:32:00Z",
-  "updatedAt": "2026-09-10T01:45:56Z",
+  "updatedAt": "2026-09-10T02:17:07Z",
   "status": "completed",
   "chapters": [
     {
@@ -51,7 +51,7 @@
       "wordCountPass": true,
       "retryCount": 0,
       "epubPath": "/Users/guziyang/Desktop/The Transfer kid/chapter-28.epub",
-      "epubExportedAt": "2026-09-10T01:45:56Z"
+      "epubExportedAt": "2026-09-10T02:17:07Z"
     }
   ]
 }

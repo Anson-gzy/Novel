@@ -28,9 +28,9 @@ I kept my eyes on the floor between my sneakers. Every time the train slowed dow
 <img src="04-east-gate.png" alt="Andrew standing still by the east gate beside the bike racks, telling Justin the truth while Justin turns away">
 </figure>
 
-> *Marcus isn't from Westbrook. I asked him for your number because he minds his own business.*
+*Marcus isn't from Westbrook. I asked him for your number because he minds his own business.*
 
-I had walked away from the east gate because if I stayed there another ten seconds, I would have thrown up in the ivy next to the bike racks. Andrew hadn't shouted. He hadn't even looked angry. He had just delivered the facts with that same terrifying precision he used for AP History notes, <mark>peeling away my entire theory like old scotch tape</mark>.
+I had walked away from the east gate because if I stayed there another ten seconds, I would have thrown up in the ivy next to the bike racks. Andrew hadn't shouted. He hadn't even looked angry. He had just delivered the facts with that same terrifying precision he used for AP History notes, peeling away my entire theory like old scotch tape.
 
 When the train pulled into my station, I stepped onto the platform and walked the four blocks to our apartment building without looking up once. The afternoon air in the valley was dry and cool, smelling like exhaust from the boulevard and somebody's laundry vent.
 
@@ -60,7 +60,7 @@ The vertical blinds in the living room were half-drawn, throwing thin yellow str
 
 Next to the microwave, the red LED light on our landline answering machine blinked in a slow, rhythmic pulse. One new message.
 
-I did not press play. I did not need to hear the automated voice of the school attendance office or Davies's dry administrative tone explaining that Justin Herrera had been involved in a physical altercation during fifth-period lunch. My mom would hear it at midnight when she dropped her purse on the counter. <mark>I would deal with that when the clock ran out.</mark>
+I did not press play. I did not need to hear the automated voice of the school attendance office or Davies's dry administrative tone explaining that Justin Herrera had been involved in a physical altercation during fifth-period lunch. My mom would hear it at midnight when she dropped her purse on the counter. I would deal with that when the clock ran out.
 
 <figure>
 <img src="09-freezer.png" alt="Justin pulling a bag of frozen peas from the open freezer with his left hand, cold light underlighting his face, right hand held close and unused">
@@ -104,7 +104,7 @@ At the bottom of the stack was a single iMessage from Samira, sent forty-five mi
 
 I stared at the glowing rectangle until the screen timed out and went black. I flipped the phone facedown on the quilt.
 
-In the dark room, <mark>the silence was louder than the cafeteria had been</mark>.
+In the dark room, the silence was louder than the cafeteria had been.
 
 <figure>
 <img src="12-marcus-turning.png" alt="Marcus turning back over his shoulder on a gray cafeteria chair with a half-eaten sandwich, face completely open, expecting nothing">
@@ -128,7 +128,7 @@ I had built a whole fortress out of bad deductions. I had watched Marcus get wei
 
 I thought Marcus had gone behind my back. I thought they were both laughing at me, the private school kid and the smart-ass friend, treating me like the dumb project kid who was only good for a few weeks of distraction.
 
-And <mark>none of it was real</mark>.
+And none of it was real.
 
 <figure>
 <img src="20-zack.png" alt="Zack resting at the wall of an indoor lap pool between sets, goggles pushed up, looking away, entirely unaware">
@@ -224,7 +224,7 @@ I stared at the salt shaker on the table. My eyes burned, hot and stinging, but 
 
 "Why would he do that?" I whispered. "I hit him in the face, Samira. In front of everybody."
 
-"Because he's Marcus," she said simply. "<mark>He's an idiot who thinks loyalty means taking a hit and keeping quiet.</mark> Which makes you look about ten times worse for doing what you did."
+"Because he's Marcus," she said simply. "He's an idiot who thinks loyalty means taking a hit and keeping quiet. Which makes you look about ten times worse for doing what you did."
 
 "I thought..." I started, but the words felt clumsy and pathetic before they even left my mouth. "I thought him and Andrew..."
 
@@ -260,7 +260,7 @@ She didn't look angry. She just looked tired, the way people look when they have
 
 Samira opened the door. The cold evening air swept into the hallway, carrying the distant sound of traffic on the avenue.
 
-"He'll talk to you when you figure out how to say you're sorry <mark>without making it an excuse about Andrew Hayes</mark>," she said.
+"He'll talk to you when you figure out how to say you're sorry without making it an excuse about Andrew Hayes," she said.
 
 She walked out and pulled the door shut behind her. The latch clicked into place with a small, final sound.
 
@@ -276,4 +276,4 @@ I picked up my phone with my left hand, unlocked the screen, and opened Marcus's
 
 The screen glowed blue against the dark counter. His name sat there at the top: *Marcus W.*
 
-I had three whole days in this empty apartment before I was allowed to set foot on campus again. Three days with my swollen knuckles, my mom's unread voicemail, and <mark>the exact truth of what I had done</mark>, with nowhere left to run.
+I had three whole days in this empty apartment before I was allowed to set foot on campus again. Three days with my swollen knuckles, my mom's unread voicemail, and the exact truth of what I had done, with nowhere left to run.

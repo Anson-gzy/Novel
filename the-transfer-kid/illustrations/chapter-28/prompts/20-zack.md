@@ -7,8 +7,8 @@ light across the surface and the wet deck. Nobody else is in the frame. The mood
 deliberately ordinary and undramatic — the completely unremarkable reality of a
 person someone else built an entire theory around.
 
-A small rectangular caption box in the lower corner of the frame reads
-"Some swimmer named Zack."
+There is no lettering anywhere in this image: no caption box, no speech balloon,
+no signage, no text of any kind.
 
 ZACK — Young man with thick, messy dark brown hair falling over the forehead and
 past the ears, currently wet and pushed back off his face, warm sun-tanned skin,
