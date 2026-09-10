@@ -4,7 +4,6 @@
 
 <figure>
 <img src="01-train.png" alt="Justin slumped near the center doors of an LA Metro car, right hand buried in his hoodie pocket, other passengers indifferent further down the car">
-<figcaption>Brake dust and warm vinyl.</figcaption>
 </figure>
 
 The orange line train had that specific smell of brake dust and warm vinyl that usually made me zone out after seventh period. Today it just made my stomach roll.
@@ -13,14 +12,12 @@ I sat near the center doors with my back against the scratched plastic partition
 
 <figure>
 <img src="02-window-reflection.png" alt="Justin's tired face ghosted in the double-paned train window over the blurred city sliding past">
-<figcaption>An extra from a low-budget zombie movie.</figcaption>
 </figure>
 
 In the reflection of the double-paned train window, I looked like an extra from a low-budget zombie movie. Dark gray smudges under my eyes, hair sticking up on one side where I had rubbed my scalp in Vice Principal Davies's office, and a mouth pulled into a flat, ugly line.
 
 <figure>
 <img src="03-suspension-slip.png" alt="The carbon-copy suspension slip open on Justin's knee, reading three school days, return Friday eight o'clock, parent conference required">
-<figcaption>Three school days.</figcaption>
 </figure>
 
 Folded in my back pocket was the official carbon-copy suspension slip. Three school days. Return date: Friday morning, eight o'clock, with a parent or legal guardian for a reinstatement conference.
@@ -29,7 +26,6 @@ I kept my eyes on the floor between my sneakers. Every time the train slowed dow
 
 <figure>
 <img src="04-east-gate.png" alt="Andrew standing still by the east gate beside the bike racks, telling Justin the truth while Justin turns away">
-<figcaption>He hadn't even looked angry.</figcaption>
 </figure>
 
 > *Marcus isn't from Westbrook. I asked him for your number because he minds his own business.*
@@ -40,7 +36,6 @@ When the train pulled into my station, I stepped onto the platform and walked th
 
 <figure>
 <img src="05-stairs.png" alt="Justin climbing the outdoor concrete stairs toward unit 204, right wrist braced against his ribs, key already out">
-<figcaption>Without screaming.</figcaption>
 </figure>
 
 I climbed the outdoor concrete stairs to unit 204. My key felt clumsy in my left hand. I had to brace my right wrist against my ribcage just to turn the deadbolt without screaming.
@@ -49,21 +44,18 @@ Inside, the apartment was completely silent.
 
 <figure>
 <img src="06-empty-apartment.png" alt="Wide view of the silent apartment from the front door, yellow blind stripes across the brown linoleum, Justin small and still with his back to us">
-<figcaption>Completely silent.</figcaption>
 </figure>
 
 The vertical blinds in the living room were half-drawn, throwing thin yellow stripes across the brown linoleum floor. The place smelled of lemon floor cleaner and yesterday's reheated coffee. On the front of the refrigerator, held up by an old magnetized pizza coupon, was a lined index card written in my mom's quick, rounded cursive:
 
 <figure>
 <img src="07-index-card.png" alt="A lined index card in looping cursive held to the fridge by a pizza-coupon magnet, reading eat before seven, back by 11:30, lock the deadbolt">
-<figcaption>Lock the deadbolt.</figcaption>
 </figure>
 
 *Leftover pollo and rice in the blue container. Eat before seven. Working the dinner shift at the clinic, back by 11:30. Lock the deadbolt.*
 
 <figure>
 <img src="08-answering-machine.png" alt="The beige landline answering machine beside the microwave, red LED blinking, display reading one new message">
-<figcaption>One new message.</figcaption>
 </figure>
 
 Next to the microwave, the red LED light on our landline answering machine blinked in a slow, rhythmic pulse. One new message.
@@ -72,7 +64,6 @@ I did not press play. I did not need to hear the automated voice of the school a
 
 <figure>
 <img src="09-freezer.png" alt="Justin pulling a bag of frozen peas from the open freezer with his left hand, cold light underlighting his face, right hand held close and unused">
-<figcaption>Two layers of cotton.</figcaption>
 </figure>
 
 I walked over to the freezer, yanked open the door with my left hand, and pulled out a half-empty bag of frozen sweet peas. I grabbed a waffle-weave dishtowel from the oven handle, wrapped the frozen bag in two layers of cotton, and carried it into my bedroom.
@@ -81,7 +72,6 @@ I dropped onto my unmade bed, kicked off my sneakers, and slumped back against t
 
 <figure>
 <img src="10-ice-pack.png" alt="Justin on his back on the unmade bed pressing the towel-wrapped peas against his swollen knuckles, eyes squeezed shut">
-<figcaption>Burning before it started to numb.</figcaption>
 </figure>
 
 When I pressed the cold pack against the swollen ridge of my knuckles, the pain was so sharp my breath hitched in my throat. I squeezed my eyes shut and pressed harder. The cold dug in, burning before it started to numb the throbbing pulse in my bone.
@@ -92,7 +82,6 @@ It had been vibrating every thirty seconds since I left the main office. I pulle
 
 <figure>
 <img src="11-phone-notifications.png" alt="Overhead view of Justin's phone in his left hand on the quilt, screen flooded with stacked message notifications in the dark room">
-<figcaption>Everyone had a version of the story.</figcaption>
 </figure>
 
 The notification tray was completely flooded.
@@ -119,14 +108,12 @@ In the dark room, <mark>the silence was louder than the cafeteria had been</mark
 
 <figure>
 <img src="12-marcus-turning.png" alt="Marcus turning back over his shoulder on a gray cafeteria chair with a half-eaten sandwich, face completely open, expecting nothing">
-<figcaption>He had not even put his arm up to block.</figcaption>
 </figure>
 
 I closed my eyes and the image hit me instantly: Marcus sitting on the gray plastic chair, turning around with a half-eaten sandwich in his hand. His face completely open, relaxed, not expecting a single thing. He had not even put his arm up to block. When my knuckles caught the corner of his jaw, the sound had been dull, like dropping a hardback book on carpet. His head had snapped sideways, his shoulder catching the edge of the lunch tray, sending plastic forks and tater tots scattering across the floor.
 
 <figure>
 <img src="13-cafeteria-after.png" alt="Marcus propped on one elbow on the cafeteria tile among a spilled tray, looking up blank, Justin standing over him with his fist still shaking, onlookers frozen around them">
-<figcaption>Convinced that I was punishing a traitor.</figcaption>
 </figure>
 
 He had looked up at me from the tile with his eyes wide, totally blank, trying to calculate what had just happened.
@@ -145,7 +132,6 @@ And <mark>none of it was real</mark>.
 
 <figure>
 <img src="20-zack.png" alt="Zack resting at the wall of an indoor lap pool between sets, goggles pushed up, looking away, entirely unaware">
-<figcaption>The other side of the 405.</figcaption>
 </figure>
 
 Andrew's partner was some swimmer named Zack who lived on the other side of the 405. Andrew had never looked at Marcus twice. Marcus had only asked for my number because Andrew asked him to, and Marcus had kept his mouth shut because Marcus never broke a promise.
@@ -158,7 +144,6 @@ I didn't move. I lay frozen on the bed, staring at the ceiling fan.
 
 <figure>
 <img src="16-samira-door.png" alt="Samira on the landing under the yellow bug light with Justin's backpack and a convenience store bag, the apartment door open only a few inches">
-<figcaption>The most dangerous way Samira looked.</figcaption>
 </figure>
 
 The knocking came again, louder, accompanied by a flat voice through the hollow wood.
@@ -187,7 +172,6 @@ I pulled out the opposite chair and sat down. My shoulders felt heavy, like some
 
 <figure>
 <img src="17-kitchen-table.png" alt="Samira and Justin across the laminate kitchen table, ibuprofen and two water bottles between them, Samira level and unblinking, Justin hunched over his wrapped hand">
-<figcaption>Because Marcus told them he fell.</figcaption>
 </figure>
 
 Samira pulled a bottle of generic ibuprofen and two bottles of cold water out of the convenience store bag. She slid one water bottle and two red pills across the laminate table toward me.
@@ -202,7 +186,6 @@ I looked at the pills, then picked them up with my left hand and swallowed them 
 
 <figure>
 <img src="15-urgent-care.png" alt="Marcus on the paper-covered exam table in an urgent care room with an ice pack in his lap, his mother beside him with a hand on his shoulder">
-<figcaption>His mom had to leave work.</figcaption>
 </figure>
 
 "Eventually," Samira said. She leaned her elbows on the table and looked at me with those dark, unblinking eyes. "First he went to urgent care on Sherman Way. His mom had to leave work."
@@ -229,7 +212,6 @@ The words hung in the air between us, heavy and impossible.
 
 <figure>
 <img src="14-marcus-lying.png" alt="Marcus across the desk from Vice Principal Davies with an ice pack to his jaw, telling a calm and obvious lie while Davies plainly does not believe him">
-<figcaption>He looked Davies right in the eye and told that ridiculous lie.</figcaption>
 </figure>
 
 "He told Davies he slipped near the tray return," Samira said, her voice dropping into a quiet, lethal register. "He said someone spilled chocolate milk on the linoleum, he lost his footing, and his chin hit the metal corner of the recycling bin. He said you were reaching out to grab his jacket to keep him from falling."
@@ -262,7 +244,6 @@ She paused, watching my face.
 
 <figure>
 <img src="18-samira-leaving.png" alt="Samira in the open doorway with one hand on the brass knob, half-turned back, tired rather than angry, Justin out of focus in the warm kitchen light behind">
-<figcaption>Tired, the way people look cleaning up a mess they didn't make.</figcaption>
 </figure>
 
 Samira stood up, scraping her chair legs against the floor. She grabbed her purse and slung the strap over her shoulder. She walked toward the front door, then stopped with her hand on the brass knob.
@@ -289,7 +270,6 @@ The hum of the refrigerator kicked on, vibrating through the linoleum floor. Acr
 
 <figure>
 <img src="19-closing.png" alt="Justin alone in the dark kitchen, phone screen throwing pale blue light up onto his face, Marcus's contact card open">
-<figcaption>Marcus W.</figcaption>
 </figure>
 
 I picked up my phone with my left hand, unlocked the screen, and opened Marcus's contact card.
