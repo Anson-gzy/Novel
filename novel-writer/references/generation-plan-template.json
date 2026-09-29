@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "novelName": "novel-slug",
+  "displayTitle": "小说显示名",
+  "author": "Author",
+  "language": "zh",
+  "povRule": "多人轮换第一人称：A（主）/ B / C",
+  "povCharacters": ["A", "B", "C"],
+  "totalChapters": 20,
+  "minWordsPerChapter": 3000,
+  "maxWordsPerChapter": 5000,
+  "exportDir": "",
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "status": "in_progress",
+  "completedChapters": 0,
+  "totalWordCount": 0,
+  "wordCount": 0,
+  "wordCountPass": false,
+  "bookEpubPath": "",
+  "bookEpubExportedAt": "",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "章节标题",
+      "pov": "A",
+      "day": "D+0",
+      "filePath": "chapter-01.md",
+      "notesPath": "chapter-01-notes.md",
+      "status": "planned",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0,
+      "epubPath": "",
+      "epubExportedAt": ""
+    },
+    {
+      "chapterNumber": 2,
+      "title": "章节标题",
+      "pov": "B",
+      "day": "D+1",
+      "filePath": "chapter-02.md",
+      "notesPath": "chapter-02-notes.md",
+      "status": "planned",
+      "wordCount": 0,
+      "wordCountPass": false,
+      "retryCount": 0,
+      "epubPath": "",
+      "epubExportedAt": ""
+    }
+  ],
+  "_fieldNotes": {
+    "language": "zh | en，全书锁定；脚本据此选择字数统计方式",
+    "exportDir": "留空 = --desktop 时匹配 ~/Desktop/<displayTitle>；找不到桌面回退 <项目>/exports/",
+    "status(chapter)": "planned | draft | completed | rewriting",
+    "维护方式": "sync_check.py --fix 会自动回填 title/pov/day/wordCount/status/completedChapters/totalWordCount；export_epub.py 回填 epubPath"
+  }
+}
