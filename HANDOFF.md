@@ -67,6 +67,6 @@ When the operator is ready, begin drafting the opening scene (**`section-1.1.htm
 
 ## 5. Suggested Skills
 
-- **`interactive-fiction`**: For branch-and-bottle design, relationship state tracking, and choice node formatting.
+- **`novel-writer`**: Built-in repository skill under `novel-writer/` (for branch-and-bottle design, relationship state tracking, sync_check, and choice node formatting).
 - **`novel-writer`**: For authentic first-person POV control, natural teenage voice, and scene pacing.
 - **`verceldesign`**: For strict compliance with the Geist Light aesthetic tokens (monochrome, high-contrast typography, minimal cards).
