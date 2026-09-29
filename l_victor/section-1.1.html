@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Love, Victor · Dear Simon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#ffffff; --surface:#fafafa; --border:#eaeaea; --border-strong:#d4d4d4;
+  --fg:#171717; --fg-2:#4d4d4d; --fg-3:#8f8f8f; --accent:#000000;
+  --sans:"Geist",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"Geist Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:17px;line-height:1.7;-webkit-font-smoothing:antialiased}
+main{max-width:640px;margin:0 auto;padding:48px 16px 96px}
+header{margin-bottom:40px;padding-bottom:24px;border-bottom:1px solid var(--border)}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--fg-3);margin:0 0 8px}
+h1{font-size:32px;line-height:1.2;font-weight:600;letter-spacing:-.03em;margin:0}
+h2.scene{font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.04em;text-transform:uppercase;color:var(--fg-3);margin:48px 0 16px;display:flex;align-items:center;gap:12px}
+h2.scene::after{content:"";flex:1;height:1px;background:var(--border)}
+p{margin:0 0 1.1em}
+em{font-style:italic}
+.letter{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:20px 20px 4px;margin:24px 0}
+.letter::before{content:"Dear Simon";display:block;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--fg-3);margin-bottom:10px}
+.letter.reply::before{content:"Dear Victor"}
+.letter p{font-size:16px;color:var(--fg-2)}
+.node{border:1px solid var(--border);background:var(--surface);border-radius:8px;padding:16px;margin:32px 0}
+.node .prompt{font-size:15px;color:var(--fg-2);margin:0 0 12px}
+.node button{display:block;width:100%;text-align:left;font:inherit;font-size:15px;line-height:1.5;color:var(--fg);background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:12px 14px;margin:8px 0 0;cursor:pointer;transition:border-color .15s,opacity .15s}
+.node button:hover:not(:disabled){border-color:var(--accent)}
+.node button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.node button.picked{border-color:var(--accent);box-shadow:inset 3px 0 0 var(--accent)}
+.node button:disabled:not(.picked){opacity:.4;cursor:default}
+.node button:disabled.picked{cursor:default}
+.branch{border-left:2px solid var(--border);padding-left:16px;margin:0 0 1.1em}
+.branch,.gate,.cond{display:none}
+.branch.on,.gate.on{display:block}
+.cond.on{display:block}
+span.cond.on{display:inline}
+nav.foot{margin-top:56px;padding-top:24px;border-top:1px solid var(--border);display:none;gap:12px;flex-wrap:wrap;align-items:center}
+nav.foot.on{display:flex}
+a.btn,button.btn{font:inherit;font-size:14px;font-weight:500;text-decoration:none;border-radius:6px;padding:10px 16px;cursor:pointer;border:1px solid var(--border);background:var(--bg);color:var(--fg)}
+a.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+a.btn:hover,button.btn:hover{border-color:var(--accent)}
+a.btn.primary:hover{background:#333}
+.tools{margin-top:24px;display:flex;gap:12px;flex-wrap:wrap}
+details.notes{margin-top:32px;border:1px solid var(--border);border-radius:8px;background:var(--surface)}
+details.notes summary{cursor:pointer;padding:12px 16px;font-family:var(--mono);font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--fg-3)}
+details.notes dl{margin:0;padding:0 16px 12px;display:grid;grid-template-columns:auto 1fr;gap:6px 16px;font-size:14px}
+details.notes dt{color:var(--fg-2)}
+details.notes dd{margin:0;font-family:var(--mono);color:var(--fg)}
+@media (max-width:480px){body{font-size:16px}h1{font-size:26px}main{padding-top:32px}}
+</style>
+</head>
+<body data-section="1.1">
+<main>
+<header>
+  <p class="kicker">Love, Victor · Season 1 · Episode 1 · Section 1.1</p>
+  <h1>Dear Simon</h1>
+</header>
+<article id="story">
+<h2 class="scene">Victor's Room</h2>
+
+<p>The cursor sat there blinking at me. I typed anyway.</p>
+
+<div class="letter">
+<p>Dear Simon, you don't know me, but my family just moved to Atlanta, and today was my first day at Creekwood High, and I heard all about you. How you started messaging with another secretly gay kid at Creekwood. How you wound up making a crazy romantic declaration of love. And how you had your first big kiss on the Ferris wheel in front of the whole school.</p>
+<p>And I just want to say screw you. Screw you for having the world's most perfect, accepting parents. The world's most supportive friends. Because for some of us, it's not that easy.</p>
+<p>I can't believe that 24 hours ago, I was actually looking forward to having a fresh start at Creekwood. That I thought I'd finally get the chance to be myself. Or at least… figure out who that even is.</p>
+</div>
+
+<h2 class="scene">24 Hours Earlier · Brasstown Street</h2>
+
+<p>"Okay, this is it, Salazars," Dad said. "Our beautiful new home."</p>
+
+<p>"Ooh, Armando, it looks nice," Mom said. "What a great building. I think we're gonna be really happy here."</p>
+
+<p>"Yeah, right?"</p>
+
+<p>Pilar had her phone pressed to her face like it was life support. "I miss you so much. I would crawl back to Texas on broken glass just to have five more minutes with you."</p>
+
+<p>"Pilar, say goodbye to your boyfriend," Mom said. "I'm trying to have a nice family moment here."</p>
+
+<p>"My kidnappers are making me hang up. Send help."</p>
+
+<p>"Hey, can you cheer up?" I said. "Maybe Atlanta won't be so bad."</p>
+
+<p>"Mom and Dad made me move a thousand miles away from the love of my life." She didn't even look at me. "If you had a girlfriend, you'd understand."</p>
+
+<section class="node" data-node="s11_pilar">
+  <p class="prompt"><em>If you had a girlfriend.</em> She said it the way you'd say anything to your brother.</p>
+  <button data-pick="a" data-fx='{"honesty":-1}'>Let it roll off. It's just Pilar being Pilar.</button>
+  <button data-pick="b" data-fx='{"honesty":1}'>Let it land. She has no idea.</button>
+</section>
+
+<div class="branch" data-node="s11_pilar" data-pick="a">
+<p>It didn't mean anything. It was the kind of thing she'd say to anyone, and I'd had a lot of practice not hearing things. You nod. You move on. That part I was good at.</p>
+</div>
+<div class="branch" data-node="s11_pilar" data-pick="b">
+<p>It landed somewhere under my ribs and stayed there. She wasn't wrong, exactly. She just had no idea how far off she was. Nobody did. That was kind of the whole point.</p>
+</div>
+
+<div class="gate" data-node="s11_pilar">
+<p>"Yeah. Yeah, you're probably right." I turned to Dad before she could say anything else. "Ah, so you're gonna do the wiring for all these old buildings?"</p>
+
+<p>"Oh, not do the wiring, <em>flaco</em>. Oversee it." He grinned like he'd been waiting all day for someone to ask. "Middle management, baby."</p>
+
+<p>"Congratulations! What a great gig."</p>
+
+<p>That was not anyone in my family. A kid about my age was standing right there on the sidewalk.</p>
+
+<p>"Uh, thanks?" Dad said.</p>
+
+<p>"I saw you guys pull in. Hi, I'm your new upstairs neighbor, Felix. If you guys need a cup of milk, I'm your guy."</p>
+
+<p>"I really need to pee right now," Adrian announced.</p>
+
+<p>"Oh. Yeah. Oh. Small bladder. I feel that, man." Felix nodded at him, totally serious, then swung back to me. "So, you guys going to Creekwood?"</p>
+
+<p>"Yeah. Uh, Pilar's a freshman, and I'm Victor, a sophomore."</p>
+
+<p>"Awesome. I'll pick you up tomorrow at seven."</p>
+
+<p>"Okay."</p>
+
+<p>"Oh. And I got a little something for us to keep in touch."</p>
+
+<p>He held out a walkie-talkie. An actual walkie-talkie.</p>
+
+<p>"Um, can't we just text?"</p>
+
+<p>"Ah." He pressed it into my hand anyway. "But where's your sense of whimsy?"</p>
+
+<section class="node" data-node="s11_felix">
+  <p class="prompt">A walkie-talkie. From a guy you met forty seconds ago.</p>
+  <button data-pick="a" data-fx='{}'>This guy is a lot.</button>
+  <button data-pick="b" data-fx='{"felix":1}'>Okay. That's kind of great.</button>
+</section>
+
+<div class="branch" data-node="s11_felix" data-pick="a">
+<p>I stood there holding it like it might go off. New city, first five minutes, and the upstairs neighbor already had a plan for us. I didn't know if that was friendly or a warning sign.</p>
+</div>
+<div class="branch" data-node="s11_felix" data-pick="b">
+<p>It was the weirdest welcome I'd ever gotten. It was also the only one. I turned it over in my hand and felt myself almost smile, which, with Pilar in full hostage mode behind me, felt like a win.</p>
+</div>
+</div>
+
+</article>
+<nav class="foot" id="foot">
+  
+  
+</nav>
+<details class="notes">
+  <summary>Notes to self</summary>
+  <dl id="notes"></dl>
+</details>
+<div class="tools">
+  <button class="btn" type="button" id="redo">Replay this section</button>
+  <button class="btn" type="button" id="reset">Start the episode over</button>
+</div>
+</main>
+<script>
+(function(){
+  var KEY = 'love-victor:state:v1';
+  var SECTION = document.body.getAttribute('data-section');
+  var STATS = ['honesty','felix','mia','benji'];
+  var LABELS = {honesty:'Honest with myself', felix:'Felix', mia:'Mia', benji:'Benji'};
+
+  function readStore(){ try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch(e){ return null; } }
+  function writeStore(s){ try { localStorage.setItem(KEY, JSON.stringify(s)); } catch(e){} }
+  function encode(s){ try { return btoa(unescape(encodeURIComponent(JSON.stringify(s)))); } catch(e){ return ''; } }
+  function decode(t){ try { return JSON.parse(decodeURIComponent(escape(atob(t)))); } catch(e){ return null; } }
+
+  var state = readStore() || {picks:{}};
+  if (!state.picks) state.picks = {};
+  var m = location.hash.match(/s=([^&]+)/);
+  if (m) {
+    var h = decode(m[1]);
+    if (h && h.picks) for (var k in h.picks) state.picks[k] = h.picks[k];
+    writeStore(state);
+  }
+
+  function stats(){
+    var t = {}; STATS.forEach(function(k){ t[k] = 0; });
+    for (var id in state.picks) {
+      var fx = state.picks[id].fx || {};
+      for (var k in fx) t[k] = (t[k] || 0) + fx[k];
+    }
+    return t;
+  }
+  function atom(a, st){
+    var r = a.trim().match(/^(\w+)\s*(>=|<=|!=|=|>|<)\s*(-?\w+)$/);
+    if (!r) return false;
+    var key = r[1], op = r[2], val = r[3];
+    if (STATS.indexOf(key) >= 0) {
+      var x = st[key], y = Number(val);
+      return op === '>=' ? x >= y : op === '<=' ? x <= y : op === '>' ? x > y : op === '<' ? x < y : op === '=' ? x === y : x !== y;
+    }
+    var p = state.picks[key] ? state.picks[key].pick : '';
+    return op === '!=' ? p !== val : p === val;
+  }
+  function test(expr, st){
+    return expr.split('|').some(function(any){
+      return any.split('&').every(function(all){ return atom(all, st); });
+    });
+  }
+
+  function render(){
+    var st = stats();
+    var nodes = document.querySelectorAll('.node');
+    var allPicked = true;
+    nodes.forEach(function(n){
+      var id = n.getAttribute('data-node');
+      var p = state.picks[id];
+      n.querySelectorAll('button').forEach(function(b){
+        b.disabled = !!p;
+        b.classList.toggle('picked', !!p && p.pick === b.getAttribute('data-pick'));
+      });
+      if (!p) allPicked = false;
+    });
+    document.querySelectorAll('.branch').forEach(function(b){
+      var p = state.picks[b.getAttribute('data-node')];
+      b.classList.toggle('on', !!p && p.pick === b.getAttribute('data-pick'));
+    });
+    document.querySelectorAll('.gate').forEach(function(g){
+      g.classList.toggle('on', !!state.picks[g.getAttribute('data-node')]);
+    });
+    document.querySelectorAll('.cond').forEach(function(c){
+      c.classList.toggle('on', test(c.getAttribute('data-if'), st));
+    });
+    document.getElementById('foot').classList.toggle('on', allPicked);
+    var next = document.getElementById('next');
+    if (next) next.setAttribute('href', next.getAttribute('data-href') + '#s=' + encode(state));
+    var prev = document.getElementById('prev');
+    if (prev) prev.setAttribute('href', prev.getAttribute('data-href') + '#s=' + encode(state));
+    var dl = document.getElementById('notes'); dl.innerHTML = '';
+    STATS.forEach(function(k){
+      var dt = document.createElement('dt'); dt.textContent = LABELS[k];
+      var dd = document.createElement('dd'); var v = st[k];
+      dd.textContent = v > 0 ? '+' + v : String(v);
+      dl.appendChild(dt); dl.appendChild(dd);
+    });
+  }
+
+  document.getElementById('story').addEventListener('click', function(e){
+    var b = e.target.closest('.node button');
+    if (!b || b.disabled) return;
+    var id = b.closest('.node').getAttribute('data-node');
+    var fx = {}; try { fx = JSON.parse(b.getAttribute('data-fx') || '{}'); } catch(err){}
+    state.picks[id] = {pick: b.getAttribute('data-pick'), fx: fx, sec: SECTION};
+    writeStore(state);
+    render();
+    var br = document.querySelector('.branch.on[data-node="' + id + '"]') || document.querySelector('.gate.on[data-node="' + id + '"]');
+    if (br) br.scrollIntoView({behavior:'smooth', block:'start'});
+  });
+  document.getElementById('redo').addEventListener('click', function(){
+    for (var id in state.picks) if (state.picks[id].sec === SECTION) delete state.picks[id];
+    writeStore(state); render(); window.scrollTo({top:0, behavior:'smooth'});
+  });
+  var reset = document.getElementById('reset');
+  if (reset) reset.addEventListener('click', function(){
+    state = {picks:{}}; writeStore(state); history.replaceState(null, '', location.pathname); render(); window.scrollTo({top:0});
+  });
+  render();
+})();
+</script>
+</body>
+</html>
