@@ -26,14 +26,14 @@
 - **Voice:** Calm, dry, honest to the point of bluntness.
 - **Floor:** Recovery comes before the relationship.
 - **Evolution:**
-  - Ch.01 evolution: Staying at Creekwood, not Loomis Chaffee. Sets the terms: no big declarations, recovery first, Victor isn't what holds him together. Called his sponsor that night.
+  - Ch.01 evolution: Staying at Creekwood, not Loomis Chaffee. Sets the terms: no big declarations, recovery first, Victor isn't what holds him together. Called his sponsor, Dale, that night.
 
 ### Felix Westen
 - **Role:** Victor's best friend, upstairs neighbor. "Velix" friend-aversary is the carnival day.
 - **Hard Background:** His mom has struggled with mental health; the Salazars became his second family. Broke up with Pilar; apologized to her at the carnival and was pulled into the Salazar family photo. Almost restarted with Lake; they agreed it wouldn't be brave.
 - **Voice:** Whimsical, over-talks, huge heart.
 - **Evolution:**
-  - Ch.01 evolution: Saw the Ferris wheel; kept Victor's secret from the Salazars ("your story to tell"). Won a stuffed banana.
+  - Ch.01 evolution: Saw the Ferris wheel; kept Victor's secret from the Salazars ("your story to tell").
 
 ### Pilar Salazar
 - **Role:** Victor's younger sister. Felix's ex.
@@ -64,6 +64,9 @@
 
 ### Mr. Campbell / Benji's mom
 - **Role:** Benji's parents. Mr. Campbell told Victor he was the reason Benji relapsed and to stay away. Benji's mom's first name has not appeared in canon.
+
+### Dale
+- **Role:** Benji's AA sponsor (invented in Ch.01; the show never names or genders the sponsor). A man. Has not met Victor.
 
 ### Nick
 - **Role:** Victor's ex from S3; ended kindly ("Good luck with Benji, Victor").

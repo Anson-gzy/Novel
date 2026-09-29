@@ -17,7 +17,8 @@
   - [S03] Benji is in recovery (rehab, sponsor) and relapsed during S3.
   - [Ch.01] Benji is staying at Creekwood (not Loomis Chaffee); he told his parents himself.
   - [Ch.01] Benji's terms: slow, no big declarations, recovery first, Victor isn't what holds him together.
-  - [Ch.01] Benji's sponsor: gender not stated ("they").
+  - [Ch.01] Benji's sponsor is Dale (male). Dale has never met Victor.
+  - ~~[Ch.01] Benji's sponsor: gender not stated ("they").~~ ~~废弃 (rewrite 01)~~
   - [Ch.01] Pilar and Felix: not dating, "not broken."
 - 🚫 **Rules:**
   - Realistic; no coincidence rescues.
@@ -51,3 +52,4 @@
 | Rahim | Not yet | — | 🟡 |
 | Nick | Not yet | — | 🟡 |
 | Mr. Campbell | Chapter 01 | Mentioned | 🟢 |
+| Dale | Chapter 01 | Mentioned (Benji's text) | 🟢 |

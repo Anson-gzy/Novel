@@ -13,10 +13,10 @@
   "maxWordsPerChapter": 2500,
   "exportDir": "",
   "createdAt": "2026-09-29T11:14:02Z",
-  "updatedAt": "2026-09-29T11:16:11Z",
+  "updatedAt": "2026-09-29T11:19:58Z",
   "status": "in_progress",
   "completedChapters": 1,
-  "totalWordCount": 2413,
+  "totalWordCount": 1640,
   "wordCount": 0,
   "wordCountPass": false,
   "bookEpubPath": "",
@@ -30,11 +30,11 @@
       "filePath": "chapter-01.md",
       "notesPath": "chapter-01-notes.md",
       "status": "completed",
-      "wordCount": 2413,
+      "wordCount": 1640,
       "wordCountPass": true,
-      "retryCount": 0,
+      "retryCount": 1,
       "epubPath": "/home/user/Novel/love-victor/exports/chapter-01.epub",
-      "epubExportedAt": "2026-09-29T11:16:11Z"
+      "epubExportedAt": "2026-09-29T11:19:58Z"
     },
     {
       "chapterNumber": 2,
