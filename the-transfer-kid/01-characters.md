@@ -13,6 +13,7 @@
 - **Background:** Out as gay — treats it as a background fact, not a defining storyline. Average student (C+ to low B), standard-level classes. Solid friend group. Dad left when Justin was nine; mom works doubles. House is often empty when he gets home. Lives in LA.
 - **Ch.27 Evolution:** Received a three-day suspension for punching Marcus. Firmly rejected Andrew's post-facto intellectual explanations outside the east gate, recognizing that Andrew's delayed honesty was self-preservation. Severed all personal and academic ties with Andrew.
 - **Ch.28 Evolution:** Returned home to an empty apartment with bruised knuckles and three days of suspension. Learned from Samira that Marcus suffered a soft tissue contusion and stitches but lied to the administration to save him from expulsion. Stares down the crushing realization of his own paranoia and the debt he owes to Marcus.
+- **Ch.29 Evolution:** Faced his exhausted mother's quiet disappointment over the suspension voicemail. Refusing to hide behind text messages, walked to Marcus's house and delivered a direct, unvarnished apology on the front porch, taking full ownership of his jealousy, paranoia, and cowardly behavior.
 - **Speech Pattern:** Short sentences, casual contractions, occasional dry humor. Doesn't monologue — thinks in fragments.
 - **MBTI:** ISFP
 
@@ -64,6 +65,7 @@
 - Justin's friend. Second POV character (Chapters 7–12). Blunt, principled, extremely observant. Prefers people who say what they mean. Keeps his word because he gave it, not out of loyalty or affection. Has a dry, understated voice. Sees more than he lets on but doesn't push unless it matters to him. Currently holds the secret that he gave Andrew Justin's number.
 - **Ch.10–11 Evolution:** Developed feelings for Andrew — illogical, unexplainable, kept completely to himself. Was directly rejected by Andrew in Government class (Ch. 11). Carries this alongside the phone number secret. Punched by Justin in Ch. 12/19/26 due to Justin's mistaken deduction that Marcus was Andrew's partner.
 - **Ch.28 Evolution:** Received urgent care treatment for a jaw contusion and internal cheek stitches. Protected Justin by telling Vice Principal Davies he slipped on spilled milk and hit a bench, preventing battery charges and expulsion. Maintained radio silence in the group chat while recovering at home.
+- **Ch.29 Evolution:** Confronted Justin on the front porch with a butterfly bandage and stitches; bluntly told Justin why he lied to Davies (to protect nine years of friendship and Justin's future from an expulsion record). Accepted Justin's unvarnished apology while maintaining realistic boundaries and leaving the deadbolt unlocked.
 
 ### Zack Chen
 - Third POV character (Chapters 13–16, 20–25). Andrew's partner from Westbrook Prep. Swimmer (200 IM). Parents survived the gala. Chinese-American. Attends a different school from West Valley.

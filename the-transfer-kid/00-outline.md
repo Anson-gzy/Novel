@@ -35,10 +35,11 @@
 - [x] Chapter 16: "Go Find Him" — Zack POV, Justin mentions accumulate, Zack gives Andrew permission
 - [x] Chapter 17: "Three Dots" — Justin POV returns, notices Andrew's distance, Marcus situation, insomnia
 - [x] Chapter 18: "The Gift" — Justin POV, the book, the evening, intimacy, Andrew reveals partner
-- [x] Chapter 19: "Marcus" — Justin POV, wrong deduction, the punch from Justin's perspective
+- [x] Chapter 28: "Ice Pack" — Justin POV, ride home on Metro with swollen hand, empty apartment, Davies voicemail on machine, Dylan & Tyler panic, realization of Marcus's innocence, Samira drops off binder and reveals Marcus lied about slipping on milk to prevent expulsion
+- [x] Chapter 29: "The Porch" — Justin POV, late night voicemail confrontation with mom, morning walk to Marcus's house during suspension, face-to-face apology at front door, reckoning with stitches and nine-year friendship
 
 ### To Be Written (briefs pending)
-- [ ] Chapters 20–25: See Phase overview below
+- [ ] Chapters 30+: Resolution and aftermath
 
 ---
 
@@ -323,11 +324,12 @@
 - [x] Chapter 26: "The Long Weekend" — Third-Person Limited, Highway 1 sunrise, penthouse weekend, Monday book guilt & cafeteria punch convergence
 - [x] Chapter 27: "The East Gate" — Third-Person Limited (Andrew POV), cafeteria aftermath, Andrew confronts Justin by the east gate with explanations, Justin refuses to listen and cuts ties, Andrew gives up and finds Zack in Brentwood
 - [x] Chapter 28: "Ice Pack" — Justin POV, ride home on Metro with swollen hand, empty apartment, Davies voicemail on machine, Dylan & Tyler panic, realization of Marcus's innocence, Samira drops off binder and reveals Marcus lied about slipping on milk to prevent expulsion
+- [x] Chapter 29: "The Porch" — Justin POV, late night voicemail confrontation with mom, morning walk to Marcus's house during suspension, face-to-face apology at front door, reckoning with stitches and nine-year friendship
 
 ---
 
 ## Word Count Stats
-- Completed chapters: 28
+- Completed chapters: 29
 - Chapter 1: 1,657 words
 - Chapter 2: 1,734 words
 - Chapter 3: 1,875 words
@@ -356,6 +358,7 @@
 - Chapter 26: 1,750 words
 - Chapter 27: 2,385 words
 - Chapter 28: 2,473 words
+- Chapter 29: 2,209 words
 
 ### Chapter 1: "The Transfer Kid"
 **Summary:** Justin's Instagram group chat explodes with news that a private school student is transferring to West Valley High after losing both parents. Reactions range from sympathy to hostility about the "private school" label. Justin stays indifferent. On the first day, Andrew walks the hallway with a self-possession that reads as arrogance — he doesn't react to the stares, the whispers, or the mockery from the football guys. Justin watches and finds himself unsettled but can't articulate why. He's then called to Principal Nakamura's office and asked to "look after" Andrew — show him around, check in. Justin is annoyed but agrees. At lunch, he vents to Dylan, Samira, and Tyler about the absurdity of being assigned to babysit an all-AP student when he barely manages C-pluses. His friends joke, but Justin leaves the conversation with a nagging sense that Andrew is something he can't easily file away.
@@ -424,3 +427,22 @@
 **Summary:** Following the cafeteria fight, Justin is led to the administration office while Marcus is treated on the floor. Andrew skips fifth period and waits by the east exit gate near the bike racks. When Justin emerges with a three-day suspension, Andrew intercepts him to explain the truth: Marcus was never the partner from Westbrook, Andrew asked Marcus for Justin's number only for discretion, and his partner is Zack Chen. Justin refuses to listen, telling Andrew that delivering calculated logic after weeks of silence only serves Andrew's self-preservation. Justin cuts all ties and walks away. Andrew recognizes that his intellectual armor has failed completely. He stores Justin's gift book inside his car console, drives over the pass to Brentwood, and finds Zack outside swim practice. Zack offers steady, physical reassurance without interrogation, grounding Andrew in their shared reality.
 ### Chapter 28: "Ice Pack" *(Justin POV)*
 **Summary:** Following his confrontation with Andrew outside the East Gate, Justin takes the Metro home in a daze with a three-day suspension and throbbing, swollen knuckles. He arrives at his quiet apartment, where his mother is away on a clinic double shift and an unplayed voicemail from Vice Principal Davies blinks on the answering machine. Wrapping a bag of frozen sweet peas in a dishtowel to numb his hand, Justin's phone blows up with panicked messages from Dylan and Tyler and rumors on Instagram. He shuts off his notifications, forced to confront the harsh reality that his deduction about Marcus being Andrew's partner was a paranoid illusion, and that he punched an innocent best friend out of wounded pride. Samira arrives at the apartment with his schoolbag, ibuprofen, and class notes. She reveals that Marcus went to urgent care for a contusion and three stitches, but deliberately lied to Davies that he slipped on chocolate milk to protect Justin from an automatic expulsion for battery under the zero-tolerance policy. Samira gives Justin a stern reality check, telling him not to call Marcus until he can apologize truthfully without deflecting blame onto Andrew. The chapter closes with Justin alone in the quiet kitchen, staring at Marcus's contact card with three days of isolation ahead.
+
+### Chapter 29: "The Porch"
+- **Est. Word Count:** ~2,000
+- **POV:** Justin (1st person)
+- **Core Events:**
+  1. Justin wakes up to his mother returning home from her overnight hospital shift at 5:30 AM. She listens to Vice Principal Davies's voicemail in the quiet kitchen.
+  2. The confrontation with his mother: no screaming or theatrics, just bone-deep exhaustion and quiet disappointment that cuts deeper than anger. Justin admits he was suspended for fighting but refuses to offer cheap excuses.
+  3. Tuesday morning (Day 1 of suspension). The house is dead quiet. Justin looks at his bruised hand and realizes that texting or waiting out the suspension is cowardice.
+  4. The walk to Marcus's house: six blocks through the morning neighborhood while other kids are at school. Every block carries memories of their nine-year friendship.
+  5. Justin arrives at Marcus's front door and rings the bell. Marcus answers — white sterile butterfly bandage across the left jawline, purple bruising, dark stitches visible.
+  6. The confrontation on the porch: Justin gives a full, unvarnished apology without deflecting blame onto Andrew or making himself the victim. He admits his jealousy, his humiliation, and his absurd deductions.
+  7. Marcus responds with brutal honesty: he explains he lied to Davies not because Justin deserved mercy, but because he refused to watch a nine-year friendship end with an expulsion and a police record. The ice breaks, but the road to repair will be long.
+- **Micro-psychological shifts:** Guilt and dread → raw exposure before his mother → determination to stop hiding → vulnerability and humility at Marcus's porch → relief and somber resolve.
+- **Foreshadowing:**
+  - The reality of rebuilding trust with Marcus and the friend group.
+  - The permanent shift in dynamic between Justin and the school environment.
+  - The closure of the Andrew chapter and the beginning of genuine maturity.
+- **Hook:** Marcus looks at Justin's bruised knuckles, offers a dry, sarcastic remark about terrible form, and leaves the door open half an inch — not total forgiveness, but an opening.
+
